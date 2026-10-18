@@ -1,0 +1,21 @@
+name: 技术或兼容性反馈
+description: 反馈翻译术语、显示或兼容性问题
+title: "[反馈] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 系统与 Cavalry 完整版本
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 问题描述与复现步骤
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 实际结果、预期结果与截图
+      description: 提交前检查附件中的个人信息。
