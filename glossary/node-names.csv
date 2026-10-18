@@ -1,0 +1,433 @@
+﻿type,english,chinese,bilingual_name
+element,Element,元素,元素 Element
+atomic,Atomic,原子,原子 Atomic
+group,Group,分组,分组 Group
+behaviourBase,Behaviour Base,行为基础,行为基础 Behaviour Base
+transform,Transform,变换,变换 Transform
+drawable,Drawable,可绘制对象,可绘制对象 Drawable
+shape,Shape,形状,形状 Shape
+behaviour,Behaviour,行为,行为 Behaviour
+animationControl,Animation Control,动画控制,动画控制 Animation Control
+compNode,Composition,合成,合成 Composition
+keyframeLayer,Keyframe Layer,关键帧图层,关键帧图层 Keyframe Layer
+audioTrack,Audio Track,音轨,音轨 Audio Track
+renderQueueItem,Render Queue Item,渲染队列项,渲染队列项 Render Queue Item
+renderPNG,PNG Sequence,PNG 序列,PNG 序列 PNG Sequence
+renderSpriteSheet,Sprite Sheet,精灵图,精灵图 Sprite Sheet
+renderJPEG,JPEG Sequence,JPEG 序列,JPEG 序列 JPEG Sequence
+renderWebP,WebP Sequence,WebP 序列,WebP 序列 WebP Sequence
+renderFormatWithAudio,Generate a video file that includes audio.,生成包含音频的视频文件。,生成包含音频的视频文件。 Generate a video file that includes audio.
+renderAudioOnly,Audio Only,仅音频,仅音频 Audio Only
+renderSVG,SVG Sequence,SVG 序列,SVG 序列 SVG Sequence
+planarCamera,Camera,相机,相机 Camera
+rigControl,Rig Control,绑定控制,绑定控制 Rig Control
+compositionReference,Pre-Comp,预合成,预合成 Pre-Comp
+colorArray,Color Array,颜色数组,颜色数组 Color Array
+customDropdown,Custom Dropdown,自定义下拉菜单,自定义下拉菜单 Custom Dropdown
+dynamicIndexManager,Dynamic Index Manager,动态索引管理器,动态索引管理器 Dynamic Index Manager
+editableShape,Editable Shape,可编辑形状,可编辑形状 Editable Shape
+extendOpenPaths,Extend Open Paths,扩展开放路径,扩展开放路径 Extend Open Paths
+lattice,Lattice,晶格,晶格 Lattice
+latticeController,Lattice Controller,晶格控制器,晶格控制器 Lattice Controller
+fourPointWarp,4-Point Warp,四点变形,四点变形 4-Point Warp
+noise,Noise,噪声,噪声 Noise
+simplexNoise,Simplex Noise,单纯形噪声,单纯形噪声 Simplex Noise
+valueNoise,Value Noise,值噪声,值噪声 Value Noise
+cubicNoise,Cubic Noise,三次插值噪声,三次插值噪声 Cubic Noise
+cellularNoise,Cellular Noise,细胞噪波,细胞噪波 Cellular Noise
+squetch,Squetch,挤压拉伸,挤压拉伸 Squetch
+spring,Spring,弹簧,弹簧 Spring
+pathfinder,Pathfinder,路径查找器,路径查找器 Pathfinder
+random,Random,随机,随机 Random
+oscillatorLegacy,Oscillator Legacy,振荡器（旧版）,振荡器（旧版） Oscillator Legacy
+oscillator,Oscillator,振荡器,振荡器 Oscillator
+comparison,Comparison,比较,比较 Comparison
+logic,Logic,逻辑,逻辑 Logic
+math,Math,数学,数学 Math
+math2,Math2,二维数学运算,二维数学运算 Math2
+math3,Math3,三维数学运算,三维数学运算 Math3
+value2Array,Value2 Array,二维数值数组（数字）,二维数值数组（数字） Value2 Array
+value3Array,Value3 Array,三维数值数组（数字）,三维数值数组（数字） Value3 Array
+valueArray,Value Array,数值数组（数字）,数值数组（数字） Value Array
+jsmath,Jsmath,脚本数学,脚本数学 Jsmath
+ifElse,If Else,条件分支,条件分支 If Else
+falloff,Falloff,衰减,衰减 Falloff
+motionStretch,Motion Stretch,运动拉伸,运动拉伸 Motion Stretch
+stagger,Stagger,错开,错开 Stagger
+spreadsheet,Spreadsheet,电子表格,电子表格 Spreadsheet
+indexToColor,Index To Color,索引转颜色,索引转颜色 Index To Color
+areaRange,Area Range,区域范围,区域范围 Area Range
+areaRangeBase,Area Range,区域范围,区域范围 Area Range
+boundingBoxConstraint,Bounding Box Constraint,边界框约束,边界框约束 Bounding Box Constraint
+sound,Sound,声音,声音 Sound
+soundLegacy,Sound Legacy,声音（旧版）,声音（旧版） Sound Legacy
+flare,Flare,耀光,耀光 Flare
+behaviourMixer,Behaviour Mixer,行为混合器,行为混合器 Behaviour Mixer
+bend,Bend,弯曲,弯曲 Bend
+squashAndStretch,Squash and Stretch,挤压与拉伸,挤压与拉伸 Squash and Stretch
+frame,Frame,帧,帧 Frame
+materialBehaviourColor,Color Material Override,颜色材质覆盖,颜色材质覆盖 Color Material Override
+materialBehaviourAlpha,Alpha Material Override,Alpha 材质覆盖,Alpha 材质覆盖 Alpha Material Override
+materialBehaviourHSV,HSV Material Override,HSV 材质覆盖,HSV 材质覆盖 HSV Material Override
+applyDistribution,Apply Distribution,应用分布,应用分布 Apply Distribution
+countSubMeshes,Count Sub-Meshes,子网格计数,子网格计数 Count Sub-Meshes
+applyLayout,Apply Layout,应用布局,应用布局 Apply Layout
+chopPath,Chop Path,分割路径,分割路径 Chop Path
+subMesh,Sub-Mesh,子网格,子网格 Sub-Mesh
+bevel,Bevel,斜边,斜边 Bevel
+boolean,Boolean,布尔,布尔 Boolean
+colorMaterial,Fill,填充,填充 Fill
+strokeMaterial,Stroke,描边,描边 Stroke
+voxelize,Voxelize,体素化,体素化 Voxelize
+modulate,Modulate,调制,调制 Modulate
+value,Value,值（数字）,值（数字） Value
+value2,Value2,二维数值（数字）,二维数值（数字） Value2
+value3,Value3,三维数值（数字）,三维数值（数字） Value3
+align,Align,对齐,对齐 Align
+autoCrop,Auto-Crop,自动裁剪,自动裁剪 Auto-Crop
+lookAt,Look At,注视,注视 Look At
+round,Round,四舍五入,四舍五入 Round
+addDivisions,Add Divisions,添加分割,添加分割 Add Divisions
+distance,Distance,距离,距离 Distance
+colorBlend,Color Blend,颜色混合,颜色混合 Color Blend
+morphLegacy,Morph Legacy,形态变换（旧版）,形态变换（旧版） Morph Legacy
+morph,Morph,形态变换,形态变换 Morph
+valueBlend,Value Blend,数值混合,数值混合 Value Blend
+value2Blend,Value2 Blend,二维数值混合,二维数值混合 Value2 Blend
+value3Blend,Value3 Blend,三维数值混合,三维数值混合 Value3 Blend
+positionBlend,Position Blend,位置混合,位置混合 Position Blend
+rubberHoseLimb,Rubber Hose Limb,橡皮管肢体,橡皮管肢体 Rubber Hose Limb
+materialSampler,Material Sampler,材质采样器,材质采样器 Material Sampler
+getVector,Get Vector,获取向量,获取向量 Get Vector
+skew,Skew,倾斜,倾斜 Skew
+pinch,Pinch,夹紧,夹紧 Pinch
+curvesToLines,Curves To Lines,曲线转直线,曲线转直线 Curves To Lines
+pushAlongVector,Push Along Vector,沿向量推送,沿向量推送 Push Along Vector
+blendSubMeshPositions,Blend Sub-Mesh Positions,混合子网格位置,混合子网格位置 Blend Sub-Mesh Positions
+blendSubMeshPositionsLegacy,Blend Sub-Mesh Positions,混合子网格位置,混合子网格位置 Blend Sub-Mesh Positions
+manipulator,Manipulator,操纵器,操纵器 Manipulator
+3dMatrix,3D Matrix,3D 矩阵,3D 矩阵 3D Matrix
+materialBehaviourSwapColor,Swap Color,交换颜色,交换颜色 Swap Color
+spreadsheetLookup,Spreadsheet Lookup,电子表格查找,电子表格查找 Spreadsheet Lookup
+visibility,Visibility Sequence,可见性序列,可见性序列 Visibility Sequence
+shader,Shader,着色器,着色器 Shader
+gradientMapFilter,Gradient Map,渐变映射,渐变映射 Gradient Map
+checkerboardShader,Checkerboard Shader,棋盘格着色器,棋盘格着色器 Checkerboard Shader
+gradientShader,Gradient Shader,渐变着色器,渐变着色器 Gradient Shader
+linearGradientShader,Linear Gradient,线性渐变,线性渐变 Linear Gradient
+conicalGradientShaderLegacy,Conical Gradient,锥形渐变,锥形渐变 Conical Gradient
+conicalGradientShader,Conical Gradient,锥形渐变,锥形渐变 Conical Gradient
+shapeGradientShader,Shape Gradient,形状渐变,形状渐变 Shape Gradient
+radialGradientShader,Radial Gradient,径向渐变,径向渐变 Radial Gradient
+sweepGradientShader,Sweep Gradient,扫描渐变,扫描渐变 Sweep Gradient
+colorShader,Color Shader,颜色着色器,颜色着色器 Color Shader
+skslShader,SkSL Shader,着色语言着色器,着色语言着色器 SkSL Shader
+contoursToSubMeshes,Contours to Sub-Meshes,轮廓转子网格,轮廓转子网格 Contours to Sub-Meshes
+skslFilter,SkSL Filter,着色语言滤镜,着色语言滤镜 SkSL Filter
+imageShader,Image Shader,图像着色器,图像着色器 Image Shader
+mixShader,Mix Shader,混合着色器,混合着色器 Mix Shader
+filter,Filter,滤镜,滤镜 Filter
+maskBlurFilter,Mask Blur,遮罩模糊,遮罩模糊 Mask Blur
+dropShadowFilter,Drop Shadow,投影,投影 Drop Shadow
+lightingFilter,Lighting,灯光（光照）,灯光（光照） Lighting
+gaussianDropShadowFilter,Gaussian Drop Shadow,高斯投影,高斯投影 Gaussian Drop Shadow
+backgroundBlurFilter,Background Blur,背景模糊,背景模糊 Background Blur
+innerShadowFilter,Inner Shadow,内阴影,内阴影 Inner Shadow
+blurFilter,Fast Blur,快速模糊,快速模糊 Fast Blur
+gaussianBlurFilter,Gaussian Blur,高斯模糊,高斯模糊 Gaussian Blur
+shapeToShader,Shape to Shader,形状转着色器,形状转着色器 Shape to Shader
+levels,Levels,色阶,色阶 Levels
+curvesFilter,Curves,曲线,曲线 Curves
+triToneFilter,TriTone,三色调,三色调 TriTone
+venetianBlinds,Venetian Blinds,百叶窗,百叶窗 Venetian Blinds
+fill,Fill Color,填充颜色,填充颜色 Fill Color
+radialWipe,Radial Wipe,径向擦除,径向擦除 Radial Wipe
+hueSaturationLightness,HSL,色相／饱和度／明度,色相／饱和度／明度 HSL
+invert,Invert,反转,反转 Invert
+linearWipe,Linear Wipe,线性擦除,线性擦除 Linear Wipe
+noiseShader,Noise Shader,噪波着色器,噪波着色器 Noise Shader
+basicShape,Basic Shape,基本形状,基本形状 Basic Shape
+typeShape,Type Shape,文字形状,文字形状 Type Shape
+textShape,Text Shape,文本形状,文本形状 Text Shape
+applyFontSize,Apply Font Size,应用字体大小,应用字体大小 Apply Font Size
+applyTypeface,Apply Typeface,应用字体,应用字体 Apply Typeface
+applyTextFill,Apply Text Fill,应用文本填充,应用文本填充 Apply Text Fill
+applyTextMaterial,Apply Text Material,应用文本材质,应用文本材质 Apply Text Material
+applyCharacterSpacing,Apply Character Spacing,应用字符间距,应用字符间距 Apply Character Spacing
+applyOpenType,Apply OpenType,应用开放字体,应用开放字体 Apply OpenType
+applyFontStyle,Apply Font Style,应用字体样式,应用字体样式 Apply Font Style
+customShape,Custom Shape,自定义形状,自定义形状 Custom Shape
+rangeFalloff,Range Falloff,范围衰减,范围衰减 Range Falloff
+connectShape,Connect Shape,连接形状,连接形状 Connect Shape
+shapeOffset,Shape Offset,形状偏移,形状偏移 Shape Offset
+textHash,Hash,哈希,哈希 Hash
+textValue,Value,值,值 Value
+textHex,Hexadecimal,十六进制,十六进制 Hexadecimal
+textNumber,Random Number,随机数字,随机数字 Random Number
+imageToShapes,Image To Shapes,图像到形状,图像到形状 Image To Shapes
+basicLine,Basic Line,基本线,基本线 Basic Line
+simpleLine,Line,直线,直线 Line
+spiralLine,Spiral,螺旋,螺旋 Spiral
+bezierLine,Bézier,贝塞尔,贝塞尔 Bézier
+rayLine,Ray,射线,射线 Ray
+outline,Outline,轮廓,轮廓 Outline
+shortestPath,Shortest Path,最短路径,最短路径 Shortest Path
+duplicator,Duplicator,复制器,复制器 Duplicator
+circleDistribution,Circle,圆形,圆形 Circle
+randomDistribution,Random,随机,随机 Random
+pointDistribution,Point,点,点 Point
+arrayDistribution,Array,数组,数组 Array
+particleDistribution,Particle,粒子,粒子 Particle
+pathDistribution,Path,路径,路径 Path
+shapePointDistribution,Shape Points,形状点,形状点 Shape Points
+shapeEdgeDistribution,Shape Edges,形状边缘,形状边缘 Shape Edges
+voxelizeDistribution,Voxelize,体素化,体素化 Voxelize
+patternShape,Pattern,图案,图案 Pattern
+epicycloid,Epicycloid,外摆线,外摆线 Epicycloid
+epitrochoid,Epitrochoid,外旋轮线,外旋轮线 Epitrochoid
+roseDistribution,Rose,玫瑰线,玫瑰线 Rose
+pointToVector,Point To Vector,点转矢量,点转矢量 Point To Vector
+gridDistribution,Grid,网格,网格 Grid
+linearDistribution,Linear,线性,线性 Linear
+customDistribution,Custom...,自定义...,自定义... Custom...
+meshDistribution,Sub-Mesh,子网格,子网格 Sub-Mesh
+mathDistribution,Math,数学,数学 Math
+maskDistribution,Mask,蒙版,蒙版 Mask
+shuffleDistribution,Shuffle,洗牌,洗牌 Shuffle
+sortDistribution,Sort,排序,排序 Sort
+rectangleShape,Rectangle,矩形,矩形 Rectangle
+polygonShape,Polygon,多边形,多边形 Polygon
+superEllipseShape,Super Ellipse,超级椭圆,超级椭圆 Super Ellipse
+superShape,Super Shape,超级形状,超级形状 Super Shape
+squircleShape,Squircle,超椭圆,超椭圆 Squircle
+starShape,Star,星形,星形 Star
+arcShape,Arc,圆弧,圆弧 Arc
+ringShape,Ring,圆环,圆环 Ring
+circleShape,Circle,圆形,圆形 Circle
+ellipseShape,Ellipse,椭圆,椭圆 Ellipse
+capsuleShape,Capsule,胶囊,胶囊 Capsule
+textDate,Random Date,随机日期,随机日期 Random Date
+textBlockUnicode,Block,方块,方块 Block
+formattedDateAndTime,Formatted Date and Time,格式化日期和时间,格式化日期和时间 Formatted Date and Time
+textFormatted,Formatted String,格式化字符串,格式化字符串 Formatted String
+chartShape,Chart,图表,图表 Chart
+lineChart,Line Chart,折线图,折线图 Line Chart
+backgroundShape,Background Shape,背景形状,背景形状 Background Shape
+footageShape,Footage Shape,素材形状,素材形状 Footage Shape
+meshShape,Mesh Shape,网格形状,网格形状 Mesh Shape
+trails,Trails,轨迹,轨迹 Trails
+celAnimationShape,Cel Animation Shape,逐帧动画形状,逐帧动画形状 Cel Animation Shape
+convexHull,Convex Hull,凸包,凸包 Convex Hull
+pointsToCurve,Points to Path,点到路径,点到路径 Points to Path
+quadTreeShape,Quad Tree Shape,四叉树形状,四叉树形状 Quad Tree Shape
+transformDistribution,Transform,变换,变换 Transform
+cogwheelShape,Cogwheel,齿轮,齿轮 Cogwheel
+cogwheelGearShape,Cogwheel (Gear),齿轮,齿轮 Cogwheel (Gear)
+arrowShape,Arrow,箭头,箭头 Arrow
+basicArrowHead,Arrow,箭头,箭头 Arrow
+chevronHead,Chevron,人字形,人字形 Chevron
+barbedHead,Barbed,倒刺,倒刺 Barbed
+circleHead,Circle,圆形,圆形 Circle
+boxHead,Box,盒形,盒形 Box
+textTimecode,Timecode,时间码,时间码 Timecode
+numberRange,Number Range,数字范围,数字范围 Number Range
+numberRangeToColor,Number Range To Color,数字范围到颜色,数字范围到颜色 Number Range To Color
+numberRangeBase,Number Range,数字范围,数字范围 Number Range
+numberRangeToColorBase,Number Range To Color,数字范围到颜色,数字范围到颜色 Number Range To Color
+cleanUp,Clean Up,清理,清理 Clean Up
+resamplePath,Resample Path,重采样路径,重采样路径 Resample Path
+measure,Measure,测量,测量 Measure
+contextIndex,Index Context,索引上下文,索引上下文 Index Context
+layerSeed,Layer Seed,图层种子,图层种子 Layer Seed
+pathLength,Path Length,路径长度,路径长度 Path Length
+stringManipulator,String Manipulator,字符串操作器,字符串操作器 String Manipulator
+arrayManipulator,Array Manipulator,数组操控器,数组操控器 Array Manipulator
+shuffleString,Shuffle String,随机排列字符串,随机排列字符串 Shuffle String
+resizeString,Resize String,调整字符串大小,调整字符串大小 Resize String
+replaceString,Replace String,替换字符串,替换字符串 Replace String
+changeStringCase,Change String Case,更改字符串大小写,更改字符串大小写 Change String Case
+transitionString,Transition String,过渡字符串,过渡字符串 Transition String
+string,String,字符串,字符串 String
+localTime,Local Time,本地时间,本地时间 Local Time
+boundingBox,Bounding Box,边界框,边界框 Bounding Box
+secondsToFrames,Seconds To Frames,秒转帧,秒转帧 Seconds To Frames
+radius,Radius,半径,半径 Radius
+component,Component,组件,组件 Component
+regexString,Regex,正则表达式,正则表达式 Regex
+subString,Sub-String,子字符串,子字符串 Sub-String
+unicodeManipulator,Unicode Offset,Unicode 偏移,Unicode 偏移 Unicode Offset
+typefaceArray,Typeface Array,字体数组,字体数组 Typeface Array
+assetArray,Asset Array,资源数组,资源数组 Asset Array
+shaderArray,Shader Array,着色器数组,着色器数组 Shader Array
+stringArray,String Array,字符串数组,字符串数组 String Array
+shapeArray,Shape Array,形状数组,形状数组 Shape Array
+resizeArray,Resize Array,调整数组大小,调整数组大小 Resize Array
+sortArray,Sort Array,排序数组,排序数组 Sort Array
+shuffleArray,Shuffle Array,随机排列数组,随机排列数组 Shuffle Array
+manipulateArray,Manipulate Array,操作数组,操作数组 Manipulate Array
+fillRule,Fill Rule,填充规则,填充规则 Fill Rule
+subdivide,Subdivide,细分,细分 Subdivide
+compConstraint,Composition Constraint,合成约束,合成约束 Composition Constraint
+transformConstraint,Transform Constraint,变换约束,变换约束 Transform Constraint
+componentConstraint,Component Constraint,分量约束,分量约束 Component Constraint
+concatenateStringArray,Join String,连接字符串,连接字符串 Join String
+isWithin,Is Within,包含在内,包含在内 Is Within
+edgeConstraint,Edge Constraint,边缘约束,边缘约束 Edge Constraint
+pointConstraint,Point Constraint,点约束,点约束 Point Constraint
+pathOffsetBehaviour,Path Offset,路径偏移,路径偏移 Path Offset
+null,Null,空对象,空对象 Null
+cameraGuide,Camera Guide,相机参考线,相机参考线 Camera Guide
+gradientBuilder,Gradient Builder,渐变构建器,渐变构建器 Gradient Builder
+blendShape,Blend Shape,混合形状,混合形状 Blend Shape
+stringGenerator,String Generator,字符串生成器,字符串生成器 String Generator
+simpleMeshSolver,Simple Mesh Solver,简易网格求解器,简易网格求解器 Simple Mesh Solver
+simpleValue2Solver,Value2 Solver,二维数值求解器,二维数值求解器 Value2 Solver
+simpleValueSolver,Value Solver,数值求解器,数值求解器 Value Solver
+gradientStopArray,Gradient Stop Array,渐变色标数组,渐变色标数组 Gradient Stop Array
+growthSolver,Growth Solver,生长求解器,生长求解器 Growth Solver
+velocityContext,Velocity Context,速度方向上下文,速度方向上下文 Velocity Context
+velocityMagnitudeContext,Velocity Magnitude Context,速度大小上下文,速度大小上下文 Velocity Magnitude Context
+sequence,Sequence,序列,序列 Sequence
+flattenShapeLayers,Flatten Shape Layers,扁平化形状图层,扁平化形状图层 Flatten Shape Layers
+layoutShape,Layout Shape,布局形状,布局形状 Layout Shape
+horizontalLayout,Horizontal Layout,水平布局,水平布局 Horizontal Layout
+verticalLayout,Vertical Layout,垂直布局,垂直布局 Vertical Layout
+gridLayout,Grid Layout,网格布局,网格布局 Grid Layout
+spacerItem,Spacer,间隔符,间隔符 Spacer
+getLayerName,Get Name,获取名称,获取名称 Get Name
+stringLength,String Length,字符串长度,字符串长度 String Length
+layoutGroup,Layout Group,布局组,布局组 Layout Group
+gridLayoutGroup,Grid Layout Group,网格布局组,网格布局组 Grid Layout Group
+gridLayoutRow,Grid Layout Row,网格布局行,网格布局行 Grid Layout Row
+rectPatternShape,Rectangle Pattern,矩形图案,矩形图案 Rectangle Pattern
+lineRectPatternGenerator,Line,直线,直线 Line
+ringRectPatternGenerator,Ring,圆环,圆环 Ring
+bentoShape,Bento,便当,便当 Bento
+chromaticAberrationFilter,Chromatic Aberration,色差,色差 Chromatic Aberration
+distributionEmitter,Distribution Emitter,分布发射器,分布发射器 Distribution Emitter
+particleEmitter,Particle Emitter,粒子发射器,粒子发射器 Particle Emitter
+particleModifier,Particle Modifier,粒子修改器,粒子修改器 Particle Modifier
+dataModifier,Data Modifier,数据修改器,数据修改器 Data Modifier
+particleShape,Particle Shape,粒子形状,粒子形状 Particle Shape
+visualModifier,Visual Modifier,视觉修改器,视觉修改器 Visual Modifier
+imageModifier,Image Modifier,图像修改器,图像修改器 Image Modifier
+pathModifier,Path Modifier,路径修改器,路径修改器 Path Modifier
+vortexModifier,Vortex Modifier,涡流修改器,涡流修改器 Vortex Modifier
+magneticModifier,Magnetic Modifier,磁力修改器,磁力修改器 Magnetic Modifier
+flowFieldModifier,Flow Field Modifier,流场修改器,流场修改器 Flow Field Modifier
+goalModifier,Goal Modifier,目标修改器,目标修改器 Goal Modifier
+speedModifier,Speed Modifier,速度修改器,速度修改器 Speed Modifier
+forceModifier,Force Modifier,力修改器,力修改器 Force Modifier
+turbulenceModifier,Turbulence Modifier,湍流修改器,湍流修改器 Turbulence Modifier
+multiPointGradientShader,Multi-Point Gradient Shader,多点渐变着色器,多点渐变着色器 Multi-Point Gradient Shader
+gammaCorrectionFilter,Gamma Correction,伽马校正,伽马校正 Gamma Correction
+blendShader,Blend Shader,混合着色器,混合着色器 Blend Shader
+slaShader,SLA Shader,SLA 着色器,SLA 着色器 SLA Shader
+rgbSplitFilter,RGB Split,RGB 分离,RGB 分离 RGB Split
+halftoneLegacyFilter,Halftone,半色调,半色调 Halftone
+halftoneFilter,Halftone,半色调,半色调 Halftone
+frostedGlassFilter,Frosted Glass,磨砂玻璃,磨砂玻璃 Frosted Glass
+ditheringFilter,Dithering,抖动,抖动 Dithering
+pixelSortingFilter,Pixel Sorting,像素排序,像素排序 Pixel Sorting
+stripesFilter,Stripes,条纹,条纹 Stripes
+pixelateFilter,Pixelate,像素化,像素化 Pixelate
+crtScanLines,Scan Lines,扫描线,扫描线 Scan Lines
+kitaokaFilter,Kitaoka Filter,北冈滤镜,北冈滤镜 Kitaoka Filter
+mirrorFilter,Mirror,镜像,镜像 Mirror
+distortionFilter,Distortion,扭曲,扭曲 Distortion
+distortEdges,Distort Edges,扭曲边缘,扭曲边缘 Distort Edges
+chromaticDisplacement,Chromatic Displacement,色差位移,色差位移 Chromatic Displacement
+displacementUtility,Displacement Utility,位移工具,位移工具 Displacement Utility
+colorInfo,Color Info,颜色信息,颜色信息 Color Info
+hsvColor,HSV Color,HSV 颜色,HSV 颜色 HSV Color
+subBoundingBox,Sub-Mesh Bounding Box,子网格边界框,子网格边界框 Sub-Mesh Bounding Box
+segmentPath,Segment Path,分割路径,分割路径 Segment Path
+forgeDynamicsShape,Forge Dynamics,Forge 动力学,Forge 动力学 Forge Dynamics
+colorCollisionEvent,Color Collision Event,颜色碰撞事件,颜色碰撞事件 Color Collision Event
+measureText,Measure Text,测量文本,测量文本 Measure Text
+stickyCollisionEvent,Sticky Collision Event,粘附碰撞事件,粘附碰撞事件 Sticky Collision Event
+impulseCollisionEvent,Impulse Collision Event,冲量碰撞事件,冲量碰撞事件 Impulse Collision Event
+bodySettingCollisionEvent,Body Settings Collision Event,刚体设置碰撞事件,刚体设置碰撞事件 Body Settings Collision Event
+visibilityCollisionEvent,Visibility Collision Event,可见性碰撞事件,可见性碰撞事件 Visibility Collision Event
+bridgeConstraint,Bridge Constraint,桥接约束,桥接约束 Bridge Constraint
+pinConstraint,Pin Constraint,钉固约束,钉固约束 Pin Constraint
+distanceConstraint,Distance Constraint,距离约束,距离约束 Distance Constraint
+directionField,Direction Field,方向场,方向场 Direction Field
+attractorField,Attractor Field,吸引场,吸引场 Attractor Field
+vortexField,Vortex Field,涡旋场,涡旋场 Vortex Field
+buoyancyField,Buoyancy Field,浮力场,浮力场 Buoyancy Field
+pathField,Path Field,路径场,路径场 Path Field
+travel,Travel,行程,行程 Travel
+reversePathUtility,Reverse Path,反转路径,反转路径 Reverse Path
+normalizePathUtility,Normalize Path Direction,规范化路径方向,规范化路径方向 Normalize Path Direction
+removeContoursUtility,Remove Contours,移除轮廓,移除轮廓 Remove Contours
+assetFromSmartFolder,Asset From Smart Folder,从智能文件夹获取资源,从智能文件夹获取资源 Asset From Smart Folder
+thresholdFilter,Threshold,阈值,阈值 Threshold
+posterizeFilter,Posterize,色调分离,色调分离 Posterize
+edgeDetection,Edge Detection,边缘检测,边缘检测 Edge Detection
+vignetteFilter,Vignette,暗角,暗角 Vignette
+hsvAdjustmentFilter,HSV Adjustment,HSV 调整,HSV 调整 HSV Adjustment
+sharpenFilter,Sharpen,锐化,锐化 Sharpen
+grainFilter,Grain,颗粒,颗粒 Grain
+motionBlurFilter,Motion Blur,运动模糊,运动模糊 Motion Blur
+scrapeFilter,Scrape,刮擦,刮擦 Scrape
+slitScanFilter,Slit Scan,狭缝扫描,狭缝扫描 Slit Scan
+voronoiShader,Voronoi Shader,Voronoi 着色器,Voronoi 着色器 Voronoi Shader
+glowFilter,Glow,辉光,辉光 Glow
+shiftChannels,Shift Channels,偏移通道,偏移通道 Shift Channels
+blackAndWhite,Black and White,黑白,黑白 Black and White
+brightnessAndContrast,Brightness And Contrast,亮度与对比度,亮度与对比度 Brightness And Contrast
+cornerPinShape,Corner Pin,角固定,角固定 Corner Pin
+extrude,Extrude,挤压,挤压 Extrude
+extractSubMeshes,Extract Sub-Meshes,提取子网格,提取子网格 Extract Sub-Meshes
+getSubMeshTransform,Get Sub-Mesh Transform,获取子网格变换,获取子网格变换 Get Sub-Mesh Transform
+intersectionDistribution,Intersections,交叉点,交叉点 Intersections
+accumulator,Accumulator,累加器,累加器 Accumulator
+imageSampler,Image Sampler,图像采样器,图像采样器 Image Sampler
+toonOutlines,Toon Stroke,卡通描边,卡通描边 Toon Stroke
+javaScript,JavaScript Utility,JavaScript 工具,JavaScript 工具 JavaScript Utility
+javaScriptShape,JavaScript Shape,JavaScript 形状,JavaScript 形状 JavaScript Shape
+javaScriptModifier,JavaScript Modifier,JavaScript 修改器,JavaScript 修改器 JavaScript Modifier
+javaScriptEmitter,JavaScript Emitter,JavaScript 发射器,JavaScript 发射器 JavaScript Emitter
+javaScriptDeformer,JavaScript Deformer,JavaScript 变形器,JavaScript 变形器 JavaScript Deformer
+dragField,Drag Field,阻力场,阻力场 Drag Field
+typeface,Typeface,字体,字体 Typeface
+lengthContext,Length Context,长度上下文,长度上下文 Length Context
+stringFromAsset,String From Asset,从素材生成字符串,从素材生成字符串 String From Asset
+subtitleExtractor,Subtitle Extractor,字幕提取器,字幕提取器 Subtitle Extractor
+timeMarker,Time Marker,时间标记,时间标记 Time Marker
+schedulingGroup,Scheduling Group,调度组,调度组 Scheduling Group
+knot,Knot,结点,结点 Knot
+skeleton,Skeleton,骨骼,骨骼 Skeleton
+bone,Bone,骨骼,骨骼 Bone
+inverseKinematicsControl,IK Control,IK 控制,IK 控制 IK Control
+skinning,Skinning,蒙皮,蒙皮 Skinning
+timelineCounter,Timeline Counter,时间线计数器,时间线计数器 Timeline Counter
+contrastingColor,Contrasting Color,对比色,对比色 Contrasting Color
+wave,Wave,波浪,波浪 Wave
+autoAnimate,Auto-Animate,自动动画,自动动画 Auto-Animate
+pieChart,Pie Chart,饼图,饼图 Pie Chart
+barChart,Bar Chart,柱状图,柱状图 Bar Chart
+mergeShape,Merge,合并,合并 Merge
+stitches,Stitches,缝线,缝线 Stitches
+strokeDuplicator,Stroke Duplicator,描边复制器,描边复制器 Stroke Duplicator
+isolinesShape,Isolines,等高线,等高线 Isolines
+luminanceBlur,Luminance Blur,亮度模糊,亮度模糊 Luminance Blur
+pathRelax,Path Relax,路径松弛,路径松弛 Path Relax
+pathAverage,Path Average,路径平均,路径平均 Path Average
+pointDisplace,Point Displacer,点置换器,点置换器 Point Displacer
+pathSplit,Path Split,路径分裂,路径分裂 Path Split
+meshSolver,Mesh Solver,网格求解器,网格求解器 Mesh Solver
+metaballs,Metaballs,融合球（元球）,融合球（元球） Metaballs
+bilateralBlurFilter,Bilateral Blur,双边模糊,双边模糊 Bilateral Blur
+boxBlurFilter,Box Blur,方框模糊,方框模糊 Box Blur
+bulgeFilter,Bulge,膨胀,膨胀 Bulge
+chromaKeyFilter,Chroma Key,色度抠像,色度抠像 Chroma Key
+directionalBlurFilter,Directional Blur,方向模糊,方向模糊 Directional Blur
+erosionFilter,Erosion,侵蚀,侵蚀 Erosion
+lightSweepFilter,Light Sweep,光带扫过,光带扫过 Light Sweep
+rectToPolarFilter,Polar Coordinates,极坐标,极坐标 Polar Coordinates
+rippleFilter,Ripple,波纹,波纹 Ripple
+spheriseFilter,Spherise,球面化,球面化 Spherise
+twistFilter,Twist,扭曲（旋扭）,扭曲（旋扭） Twist
+zoomBlurFilter,Zoom Blur,缩放模糊,缩放模糊 Zoom Blur

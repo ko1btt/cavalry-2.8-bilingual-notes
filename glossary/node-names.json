@@ -1,0 +1,2594 @@
+[
+  {
+    "type": "element",
+    "english": "Element",
+    "chinese": "元素",
+    "bilingual_name": "元素 Element"
+  },
+  {
+    "type": "atomic",
+    "english": "Atomic",
+    "chinese": "原子",
+    "bilingual_name": "原子 Atomic"
+  },
+  {
+    "type": "group",
+    "english": "Group",
+    "chinese": "分组",
+    "bilingual_name": "分组 Group"
+  },
+  {
+    "type": "behaviourBase",
+    "english": "Behaviour Base",
+    "chinese": "行为基础",
+    "bilingual_name": "行为基础 Behaviour Base"
+  },
+  {
+    "type": "transform",
+    "english": "Transform",
+    "chinese": "变换",
+    "bilingual_name": "变换 Transform"
+  },
+  {
+    "type": "drawable",
+    "english": "Drawable",
+    "chinese": "可绘制对象",
+    "bilingual_name": "可绘制对象 Drawable"
+  },
+  {
+    "type": "shape",
+    "english": "Shape",
+    "chinese": "形状",
+    "bilingual_name": "形状 Shape"
+  },
+  {
+    "type": "behaviour",
+    "english": "Behaviour",
+    "chinese": "行为",
+    "bilingual_name": "行为 Behaviour"
+  },
+  {
+    "type": "animationControl",
+    "english": "Animation Control",
+    "chinese": "动画控制",
+    "bilingual_name": "动画控制 Animation Control"
+  },
+  {
+    "type": "compNode",
+    "english": "Composition",
+    "chinese": "合成",
+    "bilingual_name": "合成 Composition"
+  },
+  {
+    "type": "keyframeLayer",
+    "english": "Keyframe Layer",
+    "chinese": "关键帧图层",
+    "bilingual_name": "关键帧图层 Keyframe Layer"
+  },
+  {
+    "type": "audioTrack",
+    "english": "Audio Track",
+    "chinese": "音轨",
+    "bilingual_name": "音轨 Audio Track"
+  },
+  {
+    "type": "renderQueueItem",
+    "english": "Render Queue Item",
+    "chinese": "渲染队列项",
+    "bilingual_name": "渲染队列项 Render Queue Item"
+  },
+  {
+    "type": "renderPNG",
+    "english": "PNG Sequence",
+    "chinese": "PNG 序列",
+    "bilingual_name": "PNG 序列 PNG Sequence"
+  },
+  {
+    "type": "renderSpriteSheet",
+    "english": "Sprite Sheet",
+    "chinese": "精灵图",
+    "bilingual_name": "精灵图 Sprite Sheet"
+  },
+  {
+    "type": "renderJPEG",
+    "english": "JPEG Sequence",
+    "chinese": "JPEG 序列",
+    "bilingual_name": "JPEG 序列 JPEG Sequence"
+  },
+  {
+    "type": "renderWebP",
+    "english": "WebP Sequence",
+    "chinese": "WebP 序列",
+    "bilingual_name": "WebP 序列 WebP Sequence"
+  },
+  {
+    "type": "renderFormatWithAudio",
+    "english": "Generate a video file that includes audio.",
+    "chinese": "生成包含音频的视频文件。",
+    "bilingual_name": "生成包含音频的视频文件。 Generate a video file that includes audio."
+  },
+  {
+    "type": "renderAudioOnly",
+    "english": "Audio Only",
+    "chinese": "仅音频",
+    "bilingual_name": "仅音频 Audio Only"
+  },
+  {
+    "type": "renderSVG",
+    "english": "SVG Sequence",
+    "chinese": "SVG 序列",
+    "bilingual_name": "SVG 序列 SVG Sequence"
+  },
+  {
+    "type": "planarCamera",
+    "english": "Camera",
+    "chinese": "相机",
+    "bilingual_name": "相机 Camera"
+  },
+  {
+    "type": "rigControl",
+    "english": "Rig Control",
+    "chinese": "绑定控制",
+    "bilingual_name": "绑定控制 Rig Control"
+  },
+  {
+    "type": "compositionReference",
+    "english": "Pre-Comp",
+    "chinese": "预合成",
+    "bilingual_name": "预合成 Pre-Comp"
+  },
+  {
+    "type": "colorArray",
+    "english": "Color Array",
+    "chinese": "颜色数组",
+    "bilingual_name": "颜色数组 Color Array"
+  },
+  {
+    "type": "customDropdown",
+    "english": "Custom Dropdown",
+    "chinese": "自定义下拉菜单",
+    "bilingual_name": "自定义下拉菜单 Custom Dropdown"
+  },
+  {
+    "type": "dynamicIndexManager",
+    "english": "Dynamic Index Manager",
+    "chinese": "动态索引管理器",
+    "bilingual_name": "动态索引管理器 Dynamic Index Manager"
+  },
+  {
+    "type": "editableShape",
+    "english": "Editable Shape",
+    "chinese": "可编辑形状",
+    "bilingual_name": "可编辑形状 Editable Shape"
+  },
+  {
+    "type": "extendOpenPaths",
+    "english": "Extend Open Paths",
+    "chinese": "扩展开放路径",
+    "bilingual_name": "扩展开放路径 Extend Open Paths"
+  },
+  {
+    "type": "lattice",
+    "english": "Lattice",
+    "chinese": "晶格",
+    "bilingual_name": "晶格 Lattice"
+  },
+  {
+    "type": "latticeController",
+    "english": "Lattice Controller",
+    "chinese": "晶格控制器",
+    "bilingual_name": "晶格控制器 Lattice Controller"
+  },
+  {
+    "type": "fourPointWarp",
+    "english": "4-Point Warp",
+    "chinese": "四点变形",
+    "bilingual_name": "四点变形 4-Point Warp"
+  },
+  {
+    "type": "noise",
+    "english": "Noise",
+    "chinese": "噪声",
+    "bilingual_name": "噪声 Noise"
+  },
+  {
+    "type": "simplexNoise",
+    "english": "Simplex Noise",
+    "chinese": "单纯形噪声",
+    "bilingual_name": "单纯形噪声 Simplex Noise"
+  },
+  {
+    "type": "valueNoise",
+    "english": "Value Noise",
+    "chinese": "值噪声",
+    "bilingual_name": "值噪声 Value Noise"
+  },
+  {
+    "type": "cubicNoise",
+    "english": "Cubic Noise",
+    "chinese": "三次插值噪声",
+    "bilingual_name": "三次插值噪声 Cubic Noise"
+  },
+  {
+    "type": "cellularNoise",
+    "english": "Cellular Noise",
+    "chinese": "细胞噪波",
+    "bilingual_name": "细胞噪波 Cellular Noise"
+  },
+  {
+    "type": "squetch",
+    "english": "Squetch",
+    "chinese": "挤压拉伸",
+    "bilingual_name": "挤压拉伸 Squetch"
+  },
+  {
+    "type": "spring",
+    "english": "Spring",
+    "chinese": "弹簧",
+    "bilingual_name": "弹簧 Spring"
+  },
+  {
+    "type": "pathfinder",
+    "english": "Pathfinder",
+    "chinese": "路径查找器",
+    "bilingual_name": "路径查找器 Pathfinder"
+  },
+  {
+    "type": "random",
+    "english": "Random",
+    "chinese": "随机",
+    "bilingual_name": "随机 Random"
+  },
+  {
+    "type": "oscillatorLegacy",
+    "english": "Oscillator Legacy",
+    "chinese": "振荡器（旧版）",
+    "bilingual_name": "振荡器（旧版） Oscillator Legacy"
+  },
+  {
+    "type": "oscillator",
+    "english": "Oscillator",
+    "chinese": "振荡器",
+    "bilingual_name": "振荡器 Oscillator"
+  },
+  {
+    "type": "comparison",
+    "english": "Comparison",
+    "chinese": "比较",
+    "bilingual_name": "比较 Comparison"
+  },
+  {
+    "type": "logic",
+    "english": "Logic",
+    "chinese": "逻辑",
+    "bilingual_name": "逻辑 Logic"
+  },
+  {
+    "type": "math",
+    "english": "Math",
+    "chinese": "数学",
+    "bilingual_name": "数学 Math"
+  },
+  {
+    "type": "math2",
+    "english": "Math2",
+    "chinese": "二维数学运算",
+    "bilingual_name": "二维数学运算 Math2"
+  },
+  {
+    "type": "math3",
+    "english": "Math3",
+    "chinese": "三维数学运算",
+    "bilingual_name": "三维数学运算 Math3"
+  },
+  {
+    "type": "value2Array",
+    "english": "Value2 Array",
+    "chinese": "二维数值数组（数字）",
+    "bilingual_name": "二维数值数组（数字） Value2 Array"
+  },
+  {
+    "type": "value3Array",
+    "english": "Value3 Array",
+    "chinese": "三维数值数组（数字）",
+    "bilingual_name": "三维数值数组（数字） Value3 Array"
+  },
+  {
+    "type": "valueArray",
+    "english": "Value Array",
+    "chinese": "数值数组（数字）",
+    "bilingual_name": "数值数组（数字） Value Array"
+  },
+  {
+    "type": "jsmath",
+    "english": "Jsmath",
+    "chinese": "脚本数学",
+    "bilingual_name": "脚本数学 Jsmath"
+  },
+  {
+    "type": "ifElse",
+    "english": "If Else",
+    "chinese": "条件分支",
+    "bilingual_name": "条件分支 If Else"
+  },
+  {
+    "type": "falloff",
+    "english": "Falloff",
+    "chinese": "衰减",
+    "bilingual_name": "衰减 Falloff"
+  },
+  {
+    "type": "motionStretch",
+    "english": "Motion Stretch",
+    "chinese": "运动拉伸",
+    "bilingual_name": "运动拉伸 Motion Stretch"
+  },
+  {
+    "type": "stagger",
+    "english": "Stagger",
+    "chinese": "错开",
+    "bilingual_name": "错开 Stagger"
+  },
+  {
+    "type": "spreadsheet",
+    "english": "Spreadsheet",
+    "chinese": "电子表格",
+    "bilingual_name": "电子表格 Spreadsheet"
+  },
+  {
+    "type": "indexToColor",
+    "english": "Index To Color",
+    "chinese": "索引转颜色",
+    "bilingual_name": "索引转颜色 Index To Color"
+  },
+  {
+    "type": "areaRange",
+    "english": "Area Range",
+    "chinese": "区域范围",
+    "bilingual_name": "区域范围 Area Range"
+  },
+  {
+    "type": "areaRangeBase",
+    "english": "Area Range",
+    "chinese": "区域范围",
+    "bilingual_name": "区域范围 Area Range"
+  },
+  {
+    "type": "boundingBoxConstraint",
+    "english": "Bounding Box Constraint",
+    "chinese": "边界框约束",
+    "bilingual_name": "边界框约束 Bounding Box Constraint"
+  },
+  {
+    "type": "sound",
+    "english": "Sound",
+    "chinese": "声音",
+    "bilingual_name": "声音 Sound"
+  },
+  {
+    "type": "soundLegacy",
+    "english": "Sound Legacy",
+    "chinese": "声音（旧版）",
+    "bilingual_name": "声音（旧版） Sound Legacy"
+  },
+  {
+    "type": "flare",
+    "english": "Flare",
+    "chinese": "耀光",
+    "bilingual_name": "耀光 Flare"
+  },
+  {
+    "type": "behaviourMixer",
+    "english": "Behaviour Mixer",
+    "chinese": "行为混合器",
+    "bilingual_name": "行为混合器 Behaviour Mixer"
+  },
+  {
+    "type": "bend",
+    "english": "Bend",
+    "chinese": "弯曲",
+    "bilingual_name": "弯曲 Bend"
+  },
+  {
+    "type": "squashAndStretch",
+    "english": "Squash and Stretch",
+    "chinese": "挤压与拉伸",
+    "bilingual_name": "挤压与拉伸 Squash and Stretch"
+  },
+  {
+    "type": "frame",
+    "english": "Frame",
+    "chinese": "帧",
+    "bilingual_name": "帧 Frame"
+  },
+  {
+    "type": "materialBehaviourColor",
+    "english": "Color Material Override",
+    "chinese": "颜色材质覆盖",
+    "bilingual_name": "颜色材质覆盖 Color Material Override"
+  },
+  {
+    "type": "materialBehaviourAlpha",
+    "english": "Alpha Material Override",
+    "chinese": "Alpha 材质覆盖",
+    "bilingual_name": "Alpha 材质覆盖 Alpha Material Override"
+  },
+  {
+    "type": "materialBehaviourHSV",
+    "english": "HSV Material Override",
+    "chinese": "HSV 材质覆盖",
+    "bilingual_name": "HSV 材质覆盖 HSV Material Override"
+  },
+  {
+    "type": "applyDistribution",
+    "english": "Apply Distribution",
+    "chinese": "应用分布",
+    "bilingual_name": "应用分布 Apply Distribution"
+  },
+  {
+    "type": "countSubMeshes",
+    "english": "Count Sub-Meshes",
+    "chinese": "子网格计数",
+    "bilingual_name": "子网格计数 Count Sub-Meshes"
+  },
+  {
+    "type": "applyLayout",
+    "english": "Apply Layout",
+    "chinese": "应用布局",
+    "bilingual_name": "应用布局 Apply Layout"
+  },
+  {
+    "type": "chopPath",
+    "english": "Chop Path",
+    "chinese": "分割路径",
+    "bilingual_name": "分割路径 Chop Path"
+  },
+  {
+    "type": "subMesh",
+    "english": "Sub-Mesh",
+    "chinese": "子网格",
+    "bilingual_name": "子网格 Sub-Mesh"
+  },
+  {
+    "type": "bevel",
+    "english": "Bevel",
+    "chinese": "斜边",
+    "bilingual_name": "斜边 Bevel"
+  },
+  {
+    "type": "boolean",
+    "english": "Boolean",
+    "chinese": "布尔",
+    "bilingual_name": "布尔 Boolean"
+  },
+  {
+    "type": "colorMaterial",
+    "english": "Fill",
+    "chinese": "填充",
+    "bilingual_name": "填充 Fill"
+  },
+  {
+    "type": "strokeMaterial",
+    "english": "Stroke",
+    "chinese": "描边",
+    "bilingual_name": "描边 Stroke"
+  },
+  {
+    "type": "voxelize",
+    "english": "Voxelize",
+    "chinese": "体素化",
+    "bilingual_name": "体素化 Voxelize"
+  },
+  {
+    "type": "modulate",
+    "english": "Modulate",
+    "chinese": "调制",
+    "bilingual_name": "调制 Modulate"
+  },
+  {
+    "type": "value",
+    "english": "Value",
+    "chinese": "值（数字）",
+    "bilingual_name": "值（数字） Value"
+  },
+  {
+    "type": "value2",
+    "english": "Value2",
+    "chinese": "二维数值（数字）",
+    "bilingual_name": "二维数值（数字） Value2"
+  },
+  {
+    "type": "value3",
+    "english": "Value3",
+    "chinese": "三维数值（数字）",
+    "bilingual_name": "三维数值（数字） Value3"
+  },
+  {
+    "type": "align",
+    "english": "Align",
+    "chinese": "对齐",
+    "bilingual_name": "对齐 Align"
+  },
+  {
+    "type": "autoCrop",
+    "english": "Auto-Crop",
+    "chinese": "自动裁剪",
+    "bilingual_name": "自动裁剪 Auto-Crop"
+  },
+  {
+    "type": "lookAt",
+    "english": "Look At",
+    "chinese": "注视",
+    "bilingual_name": "注视 Look At"
+  },
+  {
+    "type": "round",
+    "english": "Round",
+    "chinese": "四舍五入",
+    "bilingual_name": "四舍五入 Round"
+  },
+  {
+    "type": "addDivisions",
+    "english": "Add Divisions",
+    "chinese": "添加分割",
+    "bilingual_name": "添加分割 Add Divisions"
+  },
+  {
+    "type": "distance",
+    "english": "Distance",
+    "chinese": "距离",
+    "bilingual_name": "距离 Distance"
+  },
+  {
+    "type": "colorBlend",
+    "english": "Color Blend",
+    "chinese": "颜色混合",
+    "bilingual_name": "颜色混合 Color Blend"
+  },
+  {
+    "type": "morphLegacy",
+    "english": "Morph Legacy",
+    "chinese": "形态变换（旧版）",
+    "bilingual_name": "形态变换（旧版） Morph Legacy"
+  },
+  {
+    "type": "morph",
+    "english": "Morph",
+    "chinese": "形态变换",
+    "bilingual_name": "形态变换 Morph"
+  },
+  {
+    "type": "valueBlend",
+    "english": "Value Blend",
+    "chinese": "数值混合",
+    "bilingual_name": "数值混合 Value Blend"
+  },
+  {
+    "type": "value2Blend",
+    "english": "Value2 Blend",
+    "chinese": "二维数值混合",
+    "bilingual_name": "二维数值混合 Value2 Blend"
+  },
+  {
+    "type": "value3Blend",
+    "english": "Value3 Blend",
+    "chinese": "三维数值混合",
+    "bilingual_name": "三维数值混合 Value3 Blend"
+  },
+  {
+    "type": "positionBlend",
+    "english": "Position Blend",
+    "chinese": "位置混合",
+    "bilingual_name": "位置混合 Position Blend"
+  },
+  {
+    "type": "rubberHoseLimb",
+    "english": "Rubber Hose Limb",
+    "chinese": "橡皮管肢体",
+    "bilingual_name": "橡皮管肢体 Rubber Hose Limb"
+  },
+  {
+    "type": "materialSampler",
+    "english": "Material Sampler",
+    "chinese": "材质采样器",
+    "bilingual_name": "材质采样器 Material Sampler"
+  },
+  {
+    "type": "getVector",
+    "english": "Get Vector",
+    "chinese": "获取向量",
+    "bilingual_name": "获取向量 Get Vector"
+  },
+  {
+    "type": "skew",
+    "english": "Skew",
+    "chinese": "倾斜",
+    "bilingual_name": "倾斜 Skew"
+  },
+  {
+    "type": "pinch",
+    "english": "Pinch",
+    "chinese": "夹紧",
+    "bilingual_name": "夹紧 Pinch"
+  },
+  {
+    "type": "curvesToLines",
+    "english": "Curves To Lines",
+    "chinese": "曲线转直线",
+    "bilingual_name": "曲线转直线 Curves To Lines"
+  },
+  {
+    "type": "pushAlongVector",
+    "english": "Push Along Vector",
+    "chinese": "沿向量推送",
+    "bilingual_name": "沿向量推送 Push Along Vector"
+  },
+  {
+    "type": "blendSubMeshPositions",
+    "english": "Blend Sub-Mesh Positions",
+    "chinese": "混合子网格位置",
+    "bilingual_name": "混合子网格位置 Blend Sub-Mesh Positions"
+  },
+  {
+    "type": "blendSubMeshPositionsLegacy",
+    "english": "Blend Sub-Mesh Positions",
+    "chinese": "混合子网格位置",
+    "bilingual_name": "混合子网格位置 Blend Sub-Mesh Positions"
+  },
+  {
+    "type": "manipulator",
+    "english": "Manipulator",
+    "chinese": "操纵器",
+    "bilingual_name": "操纵器 Manipulator"
+  },
+  {
+    "type": "3dMatrix",
+    "english": "3D Matrix",
+    "chinese": "3D 矩阵",
+    "bilingual_name": "3D 矩阵 3D Matrix"
+  },
+  {
+    "type": "materialBehaviourSwapColor",
+    "english": "Swap Color",
+    "chinese": "交换颜色",
+    "bilingual_name": "交换颜色 Swap Color"
+  },
+  {
+    "type": "spreadsheetLookup",
+    "english": "Spreadsheet Lookup",
+    "chinese": "电子表格查找",
+    "bilingual_name": "电子表格查找 Spreadsheet Lookup"
+  },
+  {
+    "type": "visibility",
+    "english": "Visibility Sequence",
+    "chinese": "可见性序列",
+    "bilingual_name": "可见性序列 Visibility Sequence"
+  },
+  {
+    "type": "shader",
+    "english": "Shader",
+    "chinese": "着色器",
+    "bilingual_name": "着色器 Shader"
+  },
+  {
+    "type": "gradientMapFilter",
+    "english": "Gradient Map",
+    "chinese": "渐变映射",
+    "bilingual_name": "渐变映射 Gradient Map"
+  },
+  {
+    "type": "checkerboardShader",
+    "english": "Checkerboard Shader",
+    "chinese": "棋盘格着色器",
+    "bilingual_name": "棋盘格着色器 Checkerboard Shader"
+  },
+  {
+    "type": "gradientShader",
+    "english": "Gradient Shader",
+    "chinese": "渐变着色器",
+    "bilingual_name": "渐变着色器 Gradient Shader"
+  },
+  {
+    "type": "linearGradientShader",
+    "english": "Linear Gradient",
+    "chinese": "线性渐变",
+    "bilingual_name": "线性渐变 Linear Gradient"
+  },
+  {
+    "type": "conicalGradientShaderLegacy",
+    "english": "Conical Gradient",
+    "chinese": "锥形渐变",
+    "bilingual_name": "锥形渐变 Conical Gradient"
+  },
+  {
+    "type": "conicalGradientShader",
+    "english": "Conical Gradient",
+    "chinese": "锥形渐变",
+    "bilingual_name": "锥形渐变 Conical Gradient"
+  },
+  {
+    "type": "shapeGradientShader",
+    "english": "Shape Gradient",
+    "chinese": "形状渐变",
+    "bilingual_name": "形状渐变 Shape Gradient"
+  },
+  {
+    "type": "radialGradientShader",
+    "english": "Radial Gradient",
+    "chinese": "径向渐变",
+    "bilingual_name": "径向渐变 Radial Gradient"
+  },
+  {
+    "type": "sweepGradientShader",
+    "english": "Sweep Gradient",
+    "chinese": "扫描渐变",
+    "bilingual_name": "扫描渐变 Sweep Gradient"
+  },
+  {
+    "type": "colorShader",
+    "english": "Color Shader",
+    "chinese": "颜色着色器",
+    "bilingual_name": "颜色着色器 Color Shader"
+  },
+  {
+    "type": "skslShader",
+    "english": "SkSL Shader",
+    "chinese": "着色语言着色器",
+    "bilingual_name": "着色语言着色器 SkSL Shader"
+  },
+  {
+    "type": "contoursToSubMeshes",
+    "english": "Contours to Sub-Meshes",
+    "chinese": "轮廓转子网格",
+    "bilingual_name": "轮廓转子网格 Contours to Sub-Meshes"
+  },
+  {
+    "type": "skslFilter",
+    "english": "SkSL Filter",
+    "chinese": "着色语言滤镜",
+    "bilingual_name": "着色语言滤镜 SkSL Filter"
+  },
+  {
+    "type": "imageShader",
+    "english": "Image Shader",
+    "chinese": "图像着色器",
+    "bilingual_name": "图像着色器 Image Shader"
+  },
+  {
+    "type": "mixShader",
+    "english": "Mix Shader",
+    "chinese": "混合着色器",
+    "bilingual_name": "混合着色器 Mix Shader"
+  },
+  {
+    "type": "filter",
+    "english": "Filter",
+    "chinese": "滤镜",
+    "bilingual_name": "滤镜 Filter"
+  },
+  {
+    "type": "maskBlurFilter",
+    "english": "Mask Blur",
+    "chinese": "遮罩模糊",
+    "bilingual_name": "遮罩模糊 Mask Blur"
+  },
+  {
+    "type": "dropShadowFilter",
+    "english": "Drop Shadow",
+    "chinese": "投影",
+    "bilingual_name": "投影 Drop Shadow"
+  },
+  {
+    "type": "lightingFilter",
+    "english": "Lighting",
+    "chinese": "灯光（光照）",
+    "bilingual_name": "灯光（光照） Lighting"
+  },
+  {
+    "type": "gaussianDropShadowFilter",
+    "english": "Gaussian Drop Shadow",
+    "chinese": "高斯投影",
+    "bilingual_name": "高斯投影 Gaussian Drop Shadow"
+  },
+  {
+    "type": "backgroundBlurFilter",
+    "english": "Background Blur",
+    "chinese": "背景模糊",
+    "bilingual_name": "背景模糊 Background Blur"
+  },
+  {
+    "type": "innerShadowFilter",
+    "english": "Inner Shadow",
+    "chinese": "内阴影",
+    "bilingual_name": "内阴影 Inner Shadow"
+  },
+  {
+    "type": "blurFilter",
+    "english": "Fast Blur",
+    "chinese": "快速模糊",
+    "bilingual_name": "快速模糊 Fast Blur"
+  },
+  {
+    "type": "gaussianBlurFilter",
+    "english": "Gaussian Blur",
+    "chinese": "高斯模糊",
+    "bilingual_name": "高斯模糊 Gaussian Blur"
+  },
+  {
+    "type": "shapeToShader",
+    "english": "Shape to Shader",
+    "chinese": "形状转着色器",
+    "bilingual_name": "形状转着色器 Shape to Shader"
+  },
+  {
+    "type": "levels",
+    "english": "Levels",
+    "chinese": "色阶",
+    "bilingual_name": "色阶 Levels"
+  },
+  {
+    "type": "curvesFilter",
+    "english": "Curves",
+    "chinese": "曲线",
+    "bilingual_name": "曲线 Curves"
+  },
+  {
+    "type": "triToneFilter",
+    "english": "TriTone",
+    "chinese": "三色调",
+    "bilingual_name": "三色调 TriTone"
+  },
+  {
+    "type": "venetianBlinds",
+    "english": "Venetian Blinds",
+    "chinese": "百叶窗",
+    "bilingual_name": "百叶窗 Venetian Blinds"
+  },
+  {
+    "type": "fill",
+    "english": "Fill Color",
+    "chinese": "填充颜色",
+    "bilingual_name": "填充颜色 Fill Color"
+  },
+  {
+    "type": "radialWipe",
+    "english": "Radial Wipe",
+    "chinese": "径向擦除",
+    "bilingual_name": "径向擦除 Radial Wipe"
+  },
+  {
+    "type": "hueSaturationLightness",
+    "english": "HSL",
+    "chinese": "色相／饱和度／明度",
+    "bilingual_name": "色相／饱和度／明度 HSL"
+  },
+  {
+    "type": "invert",
+    "english": "Invert",
+    "chinese": "反转",
+    "bilingual_name": "反转 Invert"
+  },
+  {
+    "type": "linearWipe",
+    "english": "Linear Wipe",
+    "chinese": "线性擦除",
+    "bilingual_name": "线性擦除 Linear Wipe"
+  },
+  {
+    "type": "noiseShader",
+    "english": "Noise Shader",
+    "chinese": "噪波着色器",
+    "bilingual_name": "噪波着色器 Noise Shader"
+  },
+  {
+    "type": "basicShape",
+    "english": "Basic Shape",
+    "chinese": "基本形状",
+    "bilingual_name": "基本形状 Basic Shape"
+  },
+  {
+    "type": "typeShape",
+    "english": "Type Shape",
+    "chinese": "文字形状",
+    "bilingual_name": "文字形状 Type Shape"
+  },
+  {
+    "type": "textShape",
+    "english": "Text Shape",
+    "chinese": "文本形状",
+    "bilingual_name": "文本形状 Text Shape"
+  },
+  {
+    "type": "applyFontSize",
+    "english": "Apply Font Size",
+    "chinese": "应用字体大小",
+    "bilingual_name": "应用字体大小 Apply Font Size"
+  },
+  {
+    "type": "applyTypeface",
+    "english": "Apply Typeface",
+    "chinese": "应用字体",
+    "bilingual_name": "应用字体 Apply Typeface"
+  },
+  {
+    "type": "applyTextFill",
+    "english": "Apply Text Fill",
+    "chinese": "应用文本填充",
+    "bilingual_name": "应用文本填充 Apply Text Fill"
+  },
+  {
+    "type": "applyTextMaterial",
+    "english": "Apply Text Material",
+    "chinese": "应用文本材质",
+    "bilingual_name": "应用文本材质 Apply Text Material"
+  },
+  {
+    "type": "applyCharacterSpacing",
+    "english": "Apply Character Spacing",
+    "chinese": "应用字符间距",
+    "bilingual_name": "应用字符间距 Apply Character Spacing"
+  },
+  {
+    "type": "applyOpenType",
+    "english": "Apply OpenType",
+    "chinese": "应用开放字体",
+    "bilingual_name": "应用开放字体 Apply OpenType"
+  },
+  {
+    "type": "applyFontStyle",
+    "english": "Apply Font Style",
+    "chinese": "应用字体样式",
+    "bilingual_name": "应用字体样式 Apply Font Style"
+  },
+  {
+    "type": "customShape",
+    "english": "Custom Shape",
+    "chinese": "自定义形状",
+    "bilingual_name": "自定义形状 Custom Shape"
+  },
+  {
+    "type": "rangeFalloff",
+    "english": "Range Falloff",
+    "chinese": "范围衰减",
+    "bilingual_name": "范围衰减 Range Falloff"
+  },
+  {
+    "type": "connectShape",
+    "english": "Connect Shape",
+    "chinese": "连接形状",
+    "bilingual_name": "连接形状 Connect Shape"
+  },
+  {
+    "type": "shapeOffset",
+    "english": "Shape Offset",
+    "chinese": "形状偏移",
+    "bilingual_name": "形状偏移 Shape Offset"
+  },
+  {
+    "type": "textHash",
+    "english": "Hash",
+    "chinese": "哈希",
+    "bilingual_name": "哈希 Hash"
+  },
+  {
+    "type": "textValue",
+    "english": "Value",
+    "chinese": "值",
+    "bilingual_name": "值 Value"
+  },
+  {
+    "type": "textHex",
+    "english": "Hexadecimal",
+    "chinese": "十六进制",
+    "bilingual_name": "十六进制 Hexadecimal"
+  },
+  {
+    "type": "textNumber",
+    "english": "Random Number",
+    "chinese": "随机数字",
+    "bilingual_name": "随机数字 Random Number"
+  },
+  {
+    "type": "imageToShapes",
+    "english": "Image To Shapes",
+    "chinese": "图像到形状",
+    "bilingual_name": "图像到形状 Image To Shapes"
+  },
+  {
+    "type": "basicLine",
+    "english": "Basic Line",
+    "chinese": "基本线",
+    "bilingual_name": "基本线 Basic Line"
+  },
+  {
+    "type": "simpleLine",
+    "english": "Line",
+    "chinese": "直线",
+    "bilingual_name": "直线 Line"
+  },
+  {
+    "type": "spiralLine",
+    "english": "Spiral",
+    "chinese": "螺旋",
+    "bilingual_name": "螺旋 Spiral"
+  },
+  {
+    "type": "bezierLine",
+    "english": "Bézier",
+    "chinese": "贝塞尔",
+    "bilingual_name": "贝塞尔 Bézier"
+  },
+  {
+    "type": "rayLine",
+    "english": "Ray",
+    "chinese": "射线",
+    "bilingual_name": "射线 Ray"
+  },
+  {
+    "type": "outline",
+    "english": "Outline",
+    "chinese": "轮廓",
+    "bilingual_name": "轮廓 Outline"
+  },
+  {
+    "type": "shortestPath",
+    "english": "Shortest Path",
+    "chinese": "最短路径",
+    "bilingual_name": "最短路径 Shortest Path"
+  },
+  {
+    "type": "duplicator",
+    "english": "Duplicator",
+    "chinese": "复制器",
+    "bilingual_name": "复制器 Duplicator"
+  },
+  {
+    "type": "circleDistribution",
+    "english": "Circle",
+    "chinese": "圆形",
+    "bilingual_name": "圆形 Circle"
+  },
+  {
+    "type": "randomDistribution",
+    "english": "Random",
+    "chinese": "随机",
+    "bilingual_name": "随机 Random"
+  },
+  {
+    "type": "pointDistribution",
+    "english": "Point",
+    "chinese": "点",
+    "bilingual_name": "点 Point"
+  },
+  {
+    "type": "arrayDistribution",
+    "english": "Array",
+    "chinese": "数组",
+    "bilingual_name": "数组 Array"
+  },
+  {
+    "type": "particleDistribution",
+    "english": "Particle",
+    "chinese": "粒子",
+    "bilingual_name": "粒子 Particle"
+  },
+  {
+    "type": "pathDistribution",
+    "english": "Path",
+    "chinese": "路径",
+    "bilingual_name": "路径 Path"
+  },
+  {
+    "type": "shapePointDistribution",
+    "english": "Shape Points",
+    "chinese": "形状点",
+    "bilingual_name": "形状点 Shape Points"
+  },
+  {
+    "type": "shapeEdgeDistribution",
+    "english": "Shape Edges",
+    "chinese": "形状边缘",
+    "bilingual_name": "形状边缘 Shape Edges"
+  },
+  {
+    "type": "voxelizeDistribution",
+    "english": "Voxelize",
+    "chinese": "体素化",
+    "bilingual_name": "体素化 Voxelize"
+  },
+  {
+    "type": "patternShape",
+    "english": "Pattern",
+    "chinese": "图案",
+    "bilingual_name": "图案 Pattern"
+  },
+  {
+    "type": "epicycloid",
+    "english": "Epicycloid",
+    "chinese": "外摆线",
+    "bilingual_name": "外摆线 Epicycloid"
+  },
+  {
+    "type": "epitrochoid",
+    "english": "Epitrochoid",
+    "chinese": "外旋轮线",
+    "bilingual_name": "外旋轮线 Epitrochoid"
+  },
+  {
+    "type": "roseDistribution",
+    "english": "Rose",
+    "chinese": "玫瑰线",
+    "bilingual_name": "玫瑰线 Rose"
+  },
+  {
+    "type": "pointToVector",
+    "english": "Point To Vector",
+    "chinese": "点转矢量",
+    "bilingual_name": "点转矢量 Point To Vector"
+  },
+  {
+    "type": "gridDistribution",
+    "english": "Grid",
+    "chinese": "网格",
+    "bilingual_name": "网格 Grid"
+  },
+  {
+    "type": "linearDistribution",
+    "english": "Linear",
+    "chinese": "线性",
+    "bilingual_name": "线性 Linear"
+  },
+  {
+    "type": "customDistribution",
+    "english": "Custom...",
+    "chinese": "自定义...",
+    "bilingual_name": "自定义... Custom..."
+  },
+  {
+    "type": "meshDistribution",
+    "english": "Sub-Mesh",
+    "chinese": "子网格",
+    "bilingual_name": "子网格 Sub-Mesh"
+  },
+  {
+    "type": "mathDistribution",
+    "english": "Math",
+    "chinese": "数学",
+    "bilingual_name": "数学 Math"
+  },
+  {
+    "type": "maskDistribution",
+    "english": "Mask",
+    "chinese": "蒙版",
+    "bilingual_name": "蒙版 Mask"
+  },
+  {
+    "type": "shuffleDistribution",
+    "english": "Shuffle",
+    "chinese": "洗牌",
+    "bilingual_name": "洗牌 Shuffle"
+  },
+  {
+    "type": "sortDistribution",
+    "english": "Sort",
+    "chinese": "排序",
+    "bilingual_name": "排序 Sort"
+  },
+  {
+    "type": "rectangleShape",
+    "english": "Rectangle",
+    "chinese": "矩形",
+    "bilingual_name": "矩形 Rectangle"
+  },
+  {
+    "type": "polygonShape",
+    "english": "Polygon",
+    "chinese": "多边形",
+    "bilingual_name": "多边形 Polygon"
+  },
+  {
+    "type": "superEllipseShape",
+    "english": "Super Ellipse",
+    "chinese": "超级椭圆",
+    "bilingual_name": "超级椭圆 Super Ellipse"
+  },
+  {
+    "type": "superShape",
+    "english": "Super Shape",
+    "chinese": "超级形状",
+    "bilingual_name": "超级形状 Super Shape"
+  },
+  {
+    "type": "squircleShape",
+    "english": "Squircle",
+    "chinese": "超椭圆",
+    "bilingual_name": "超椭圆 Squircle"
+  },
+  {
+    "type": "starShape",
+    "english": "Star",
+    "chinese": "星形",
+    "bilingual_name": "星形 Star"
+  },
+  {
+    "type": "arcShape",
+    "english": "Arc",
+    "chinese": "圆弧",
+    "bilingual_name": "圆弧 Arc"
+  },
+  {
+    "type": "ringShape",
+    "english": "Ring",
+    "chinese": "圆环",
+    "bilingual_name": "圆环 Ring"
+  },
+  {
+    "type": "circleShape",
+    "english": "Circle",
+    "chinese": "圆形",
+    "bilingual_name": "圆形 Circle"
+  },
+  {
+    "type": "ellipseShape",
+    "english": "Ellipse",
+    "chinese": "椭圆",
+    "bilingual_name": "椭圆 Ellipse"
+  },
+  {
+    "type": "capsuleShape",
+    "english": "Capsule",
+    "chinese": "胶囊",
+    "bilingual_name": "胶囊 Capsule"
+  },
+  {
+    "type": "textDate",
+    "english": "Random Date",
+    "chinese": "随机日期",
+    "bilingual_name": "随机日期 Random Date"
+  },
+  {
+    "type": "textBlockUnicode",
+    "english": "Block",
+    "chinese": "方块",
+    "bilingual_name": "方块 Block"
+  },
+  {
+    "type": "formattedDateAndTime",
+    "english": "Formatted Date and Time",
+    "chinese": "格式化日期和时间",
+    "bilingual_name": "格式化日期和时间 Formatted Date and Time"
+  },
+  {
+    "type": "textFormatted",
+    "english": "Formatted String",
+    "chinese": "格式化字符串",
+    "bilingual_name": "格式化字符串 Formatted String"
+  },
+  {
+    "type": "chartShape",
+    "english": "Chart",
+    "chinese": "图表",
+    "bilingual_name": "图表 Chart"
+  },
+  {
+    "type": "lineChart",
+    "english": "Line Chart",
+    "chinese": "折线图",
+    "bilingual_name": "折线图 Line Chart"
+  },
+  {
+    "type": "backgroundShape",
+    "english": "Background Shape",
+    "chinese": "背景形状",
+    "bilingual_name": "背景形状 Background Shape"
+  },
+  {
+    "type": "footageShape",
+    "english": "Footage Shape",
+    "chinese": "素材形状",
+    "bilingual_name": "素材形状 Footage Shape"
+  },
+  {
+    "type": "meshShape",
+    "english": "Mesh Shape",
+    "chinese": "网格形状",
+    "bilingual_name": "网格形状 Mesh Shape"
+  },
+  {
+    "type": "trails",
+    "english": "Trails",
+    "chinese": "轨迹",
+    "bilingual_name": "轨迹 Trails"
+  },
+  {
+    "type": "celAnimationShape",
+    "english": "Cel Animation Shape",
+    "chinese": "逐帧动画形状",
+    "bilingual_name": "逐帧动画形状 Cel Animation Shape"
+  },
+  {
+    "type": "convexHull",
+    "english": "Convex Hull",
+    "chinese": "凸包",
+    "bilingual_name": "凸包 Convex Hull"
+  },
+  {
+    "type": "pointsToCurve",
+    "english": "Points to Path",
+    "chinese": "点到路径",
+    "bilingual_name": "点到路径 Points to Path"
+  },
+  {
+    "type": "quadTreeShape",
+    "english": "Quad Tree Shape",
+    "chinese": "四叉树形状",
+    "bilingual_name": "四叉树形状 Quad Tree Shape"
+  },
+  {
+    "type": "transformDistribution",
+    "english": "Transform",
+    "chinese": "变换",
+    "bilingual_name": "变换 Transform"
+  },
+  {
+    "type": "cogwheelShape",
+    "english": "Cogwheel",
+    "chinese": "齿轮",
+    "bilingual_name": "齿轮 Cogwheel"
+  },
+  {
+    "type": "cogwheelGearShape",
+    "english": "Cogwheel (Gear)",
+    "chinese": "齿轮",
+    "bilingual_name": "齿轮 Cogwheel (Gear)"
+  },
+  {
+    "type": "arrowShape",
+    "english": "Arrow",
+    "chinese": "箭头",
+    "bilingual_name": "箭头 Arrow"
+  },
+  {
+    "type": "basicArrowHead",
+    "english": "Arrow",
+    "chinese": "箭头",
+    "bilingual_name": "箭头 Arrow"
+  },
+  {
+    "type": "chevronHead",
+    "english": "Chevron",
+    "chinese": "人字形",
+    "bilingual_name": "人字形 Chevron"
+  },
+  {
+    "type": "barbedHead",
+    "english": "Barbed",
+    "chinese": "倒刺",
+    "bilingual_name": "倒刺 Barbed"
+  },
+  {
+    "type": "circleHead",
+    "english": "Circle",
+    "chinese": "圆形",
+    "bilingual_name": "圆形 Circle"
+  },
+  {
+    "type": "boxHead",
+    "english": "Box",
+    "chinese": "盒形",
+    "bilingual_name": "盒形 Box"
+  },
+  {
+    "type": "textTimecode",
+    "english": "Timecode",
+    "chinese": "时间码",
+    "bilingual_name": "时间码 Timecode"
+  },
+  {
+    "type": "numberRange",
+    "english": "Number Range",
+    "chinese": "数字范围",
+    "bilingual_name": "数字范围 Number Range"
+  },
+  {
+    "type": "numberRangeToColor",
+    "english": "Number Range To Color",
+    "chinese": "数字范围到颜色",
+    "bilingual_name": "数字范围到颜色 Number Range To Color"
+  },
+  {
+    "type": "numberRangeBase",
+    "english": "Number Range",
+    "chinese": "数字范围",
+    "bilingual_name": "数字范围 Number Range"
+  },
+  {
+    "type": "numberRangeToColorBase",
+    "english": "Number Range To Color",
+    "chinese": "数字范围到颜色",
+    "bilingual_name": "数字范围到颜色 Number Range To Color"
+  },
+  {
+    "type": "cleanUp",
+    "english": "Clean Up",
+    "chinese": "清理",
+    "bilingual_name": "清理 Clean Up"
+  },
+  {
+    "type": "resamplePath",
+    "english": "Resample Path",
+    "chinese": "重采样路径",
+    "bilingual_name": "重采样路径 Resample Path"
+  },
+  {
+    "type": "measure",
+    "english": "Measure",
+    "chinese": "测量",
+    "bilingual_name": "测量 Measure"
+  },
+  {
+    "type": "contextIndex",
+    "english": "Index Context",
+    "chinese": "索引上下文",
+    "bilingual_name": "索引上下文 Index Context"
+  },
+  {
+    "type": "layerSeed",
+    "english": "Layer Seed",
+    "chinese": "图层种子",
+    "bilingual_name": "图层种子 Layer Seed"
+  },
+  {
+    "type": "pathLength",
+    "english": "Path Length",
+    "chinese": "路径长度",
+    "bilingual_name": "路径长度 Path Length"
+  },
+  {
+    "type": "stringManipulator",
+    "english": "String Manipulator",
+    "chinese": "字符串操作器",
+    "bilingual_name": "字符串操作器 String Manipulator"
+  },
+  {
+    "type": "arrayManipulator",
+    "english": "Array Manipulator",
+    "chinese": "数组操控器",
+    "bilingual_name": "数组操控器 Array Manipulator"
+  },
+  {
+    "type": "shuffleString",
+    "english": "Shuffle String",
+    "chinese": "随机排列字符串",
+    "bilingual_name": "随机排列字符串 Shuffle String"
+  },
+  {
+    "type": "resizeString",
+    "english": "Resize String",
+    "chinese": "调整字符串大小",
+    "bilingual_name": "调整字符串大小 Resize String"
+  },
+  {
+    "type": "replaceString",
+    "english": "Replace String",
+    "chinese": "替换字符串",
+    "bilingual_name": "替换字符串 Replace String"
+  },
+  {
+    "type": "changeStringCase",
+    "english": "Change String Case",
+    "chinese": "更改字符串大小写",
+    "bilingual_name": "更改字符串大小写 Change String Case"
+  },
+  {
+    "type": "transitionString",
+    "english": "Transition String",
+    "chinese": "过渡字符串",
+    "bilingual_name": "过渡字符串 Transition String"
+  },
+  {
+    "type": "string",
+    "english": "String",
+    "chinese": "字符串",
+    "bilingual_name": "字符串 String"
+  },
+  {
+    "type": "localTime",
+    "english": "Local Time",
+    "chinese": "本地时间",
+    "bilingual_name": "本地时间 Local Time"
+  },
+  {
+    "type": "boundingBox",
+    "english": "Bounding Box",
+    "chinese": "边界框",
+    "bilingual_name": "边界框 Bounding Box"
+  },
+  {
+    "type": "secondsToFrames",
+    "english": "Seconds To Frames",
+    "chinese": "秒转帧",
+    "bilingual_name": "秒转帧 Seconds To Frames"
+  },
+  {
+    "type": "radius",
+    "english": "Radius",
+    "chinese": "半径",
+    "bilingual_name": "半径 Radius"
+  },
+  {
+    "type": "component",
+    "english": "Component",
+    "chinese": "组件",
+    "bilingual_name": "组件 Component"
+  },
+  {
+    "type": "regexString",
+    "english": "Regex",
+    "chinese": "正则表达式",
+    "bilingual_name": "正则表达式 Regex"
+  },
+  {
+    "type": "subString",
+    "english": "Sub-String",
+    "chinese": "子字符串",
+    "bilingual_name": "子字符串 Sub-String"
+  },
+  {
+    "type": "unicodeManipulator",
+    "english": "Unicode Offset",
+    "chinese": "Unicode 偏移",
+    "bilingual_name": "Unicode 偏移 Unicode Offset"
+  },
+  {
+    "type": "typefaceArray",
+    "english": "Typeface Array",
+    "chinese": "字体数组",
+    "bilingual_name": "字体数组 Typeface Array"
+  },
+  {
+    "type": "assetArray",
+    "english": "Asset Array",
+    "chinese": "资源数组",
+    "bilingual_name": "资源数组 Asset Array"
+  },
+  {
+    "type": "shaderArray",
+    "english": "Shader Array",
+    "chinese": "着色器数组",
+    "bilingual_name": "着色器数组 Shader Array"
+  },
+  {
+    "type": "stringArray",
+    "english": "String Array",
+    "chinese": "字符串数组",
+    "bilingual_name": "字符串数组 String Array"
+  },
+  {
+    "type": "shapeArray",
+    "english": "Shape Array",
+    "chinese": "形状数组",
+    "bilingual_name": "形状数组 Shape Array"
+  },
+  {
+    "type": "resizeArray",
+    "english": "Resize Array",
+    "chinese": "调整数组大小",
+    "bilingual_name": "调整数组大小 Resize Array"
+  },
+  {
+    "type": "sortArray",
+    "english": "Sort Array",
+    "chinese": "排序数组",
+    "bilingual_name": "排序数组 Sort Array"
+  },
+  {
+    "type": "shuffleArray",
+    "english": "Shuffle Array",
+    "chinese": "随机排列数组",
+    "bilingual_name": "随机排列数组 Shuffle Array"
+  },
+  {
+    "type": "manipulateArray",
+    "english": "Manipulate Array",
+    "chinese": "操作数组",
+    "bilingual_name": "操作数组 Manipulate Array"
+  },
+  {
+    "type": "fillRule",
+    "english": "Fill Rule",
+    "chinese": "填充规则",
+    "bilingual_name": "填充规则 Fill Rule"
+  },
+  {
+    "type": "subdivide",
+    "english": "Subdivide",
+    "chinese": "细分",
+    "bilingual_name": "细分 Subdivide"
+  },
+  {
+    "type": "compConstraint",
+    "english": "Composition Constraint",
+    "chinese": "合成约束",
+    "bilingual_name": "合成约束 Composition Constraint"
+  },
+  {
+    "type": "transformConstraint",
+    "english": "Transform Constraint",
+    "chinese": "变换约束",
+    "bilingual_name": "变换约束 Transform Constraint"
+  },
+  {
+    "type": "componentConstraint",
+    "english": "Component Constraint",
+    "chinese": "分量约束",
+    "bilingual_name": "分量约束 Component Constraint"
+  },
+  {
+    "type": "concatenateStringArray",
+    "english": "Join String",
+    "chinese": "连接字符串",
+    "bilingual_name": "连接字符串 Join String"
+  },
+  {
+    "type": "isWithin",
+    "english": "Is Within",
+    "chinese": "包含在内",
+    "bilingual_name": "包含在内 Is Within"
+  },
+  {
+    "type": "edgeConstraint",
+    "english": "Edge Constraint",
+    "chinese": "边缘约束",
+    "bilingual_name": "边缘约束 Edge Constraint"
+  },
+  {
+    "type": "pointConstraint",
+    "english": "Point Constraint",
+    "chinese": "点约束",
+    "bilingual_name": "点约束 Point Constraint"
+  },
+  {
+    "type": "pathOffsetBehaviour",
+    "english": "Path Offset",
+    "chinese": "路径偏移",
+    "bilingual_name": "路径偏移 Path Offset"
+  },
+  {
+    "type": "null",
+    "english": "Null",
+    "chinese": "空对象",
+    "bilingual_name": "空对象 Null"
+  },
+  {
+    "type": "cameraGuide",
+    "english": "Camera Guide",
+    "chinese": "相机参考线",
+    "bilingual_name": "相机参考线 Camera Guide"
+  },
+  {
+    "type": "gradientBuilder",
+    "english": "Gradient Builder",
+    "chinese": "渐变构建器",
+    "bilingual_name": "渐变构建器 Gradient Builder"
+  },
+  {
+    "type": "blendShape",
+    "english": "Blend Shape",
+    "chinese": "混合形状",
+    "bilingual_name": "混合形状 Blend Shape"
+  },
+  {
+    "type": "stringGenerator",
+    "english": "String Generator",
+    "chinese": "字符串生成器",
+    "bilingual_name": "字符串生成器 String Generator"
+  },
+  {
+    "type": "simpleMeshSolver",
+    "english": "Simple Mesh Solver",
+    "chinese": "简易网格求解器",
+    "bilingual_name": "简易网格求解器 Simple Mesh Solver"
+  },
+  {
+    "type": "simpleValue2Solver",
+    "english": "Value2 Solver",
+    "chinese": "二维数值求解器",
+    "bilingual_name": "二维数值求解器 Value2 Solver"
+  },
+  {
+    "type": "simpleValueSolver",
+    "english": "Value Solver",
+    "chinese": "数值求解器",
+    "bilingual_name": "数值求解器 Value Solver"
+  },
+  {
+    "type": "gradientStopArray",
+    "english": "Gradient Stop Array",
+    "chinese": "渐变色标数组",
+    "bilingual_name": "渐变色标数组 Gradient Stop Array"
+  },
+  {
+    "type": "growthSolver",
+    "english": "Growth Solver",
+    "chinese": "生长求解器",
+    "bilingual_name": "生长求解器 Growth Solver"
+  },
+  {
+    "type": "velocityContext",
+    "english": "Velocity Context",
+    "chinese": "速度方向上下文",
+    "bilingual_name": "速度方向上下文 Velocity Context"
+  },
+  {
+    "type": "velocityMagnitudeContext",
+    "english": "Velocity Magnitude Context",
+    "chinese": "速度大小上下文",
+    "bilingual_name": "速度大小上下文 Velocity Magnitude Context"
+  },
+  {
+    "type": "sequence",
+    "english": "Sequence",
+    "chinese": "序列",
+    "bilingual_name": "序列 Sequence"
+  },
+  {
+    "type": "flattenShapeLayers",
+    "english": "Flatten Shape Layers",
+    "chinese": "扁平化形状图层",
+    "bilingual_name": "扁平化形状图层 Flatten Shape Layers"
+  },
+  {
+    "type": "layoutShape",
+    "english": "Layout Shape",
+    "chinese": "布局形状",
+    "bilingual_name": "布局形状 Layout Shape"
+  },
+  {
+    "type": "horizontalLayout",
+    "english": "Horizontal Layout",
+    "chinese": "水平布局",
+    "bilingual_name": "水平布局 Horizontal Layout"
+  },
+  {
+    "type": "verticalLayout",
+    "english": "Vertical Layout",
+    "chinese": "垂直布局",
+    "bilingual_name": "垂直布局 Vertical Layout"
+  },
+  {
+    "type": "gridLayout",
+    "english": "Grid Layout",
+    "chinese": "网格布局",
+    "bilingual_name": "网格布局 Grid Layout"
+  },
+  {
+    "type": "spacerItem",
+    "english": "Spacer",
+    "chinese": "间隔符",
+    "bilingual_name": "间隔符 Spacer"
+  },
+  {
+    "type": "getLayerName",
+    "english": "Get Name",
+    "chinese": "获取名称",
+    "bilingual_name": "获取名称 Get Name"
+  },
+  {
+    "type": "stringLength",
+    "english": "String Length",
+    "chinese": "字符串长度",
+    "bilingual_name": "字符串长度 String Length"
+  },
+  {
+    "type": "layoutGroup",
+    "english": "Layout Group",
+    "chinese": "布局组",
+    "bilingual_name": "布局组 Layout Group"
+  },
+  {
+    "type": "gridLayoutGroup",
+    "english": "Grid Layout Group",
+    "chinese": "网格布局组",
+    "bilingual_name": "网格布局组 Grid Layout Group"
+  },
+  {
+    "type": "gridLayoutRow",
+    "english": "Grid Layout Row",
+    "chinese": "网格布局行",
+    "bilingual_name": "网格布局行 Grid Layout Row"
+  },
+  {
+    "type": "rectPatternShape",
+    "english": "Rectangle Pattern",
+    "chinese": "矩形图案",
+    "bilingual_name": "矩形图案 Rectangle Pattern"
+  },
+  {
+    "type": "lineRectPatternGenerator",
+    "english": "Line",
+    "chinese": "直线",
+    "bilingual_name": "直线 Line"
+  },
+  {
+    "type": "ringRectPatternGenerator",
+    "english": "Ring",
+    "chinese": "圆环",
+    "bilingual_name": "圆环 Ring"
+  },
+  {
+    "type": "bentoShape",
+    "english": "Bento",
+    "chinese": "便当",
+    "bilingual_name": "便当 Bento"
+  },
+  {
+    "type": "chromaticAberrationFilter",
+    "english": "Chromatic Aberration",
+    "chinese": "色差",
+    "bilingual_name": "色差 Chromatic Aberration"
+  },
+  {
+    "type": "distributionEmitter",
+    "english": "Distribution Emitter",
+    "chinese": "分布发射器",
+    "bilingual_name": "分布发射器 Distribution Emitter"
+  },
+  {
+    "type": "particleEmitter",
+    "english": "Particle Emitter",
+    "chinese": "粒子发射器",
+    "bilingual_name": "粒子发射器 Particle Emitter"
+  },
+  {
+    "type": "particleModifier",
+    "english": "Particle Modifier",
+    "chinese": "粒子修改器",
+    "bilingual_name": "粒子修改器 Particle Modifier"
+  },
+  {
+    "type": "dataModifier",
+    "english": "Data Modifier",
+    "chinese": "数据修改器",
+    "bilingual_name": "数据修改器 Data Modifier"
+  },
+  {
+    "type": "particleShape",
+    "english": "Particle Shape",
+    "chinese": "粒子形状",
+    "bilingual_name": "粒子形状 Particle Shape"
+  },
+  {
+    "type": "visualModifier",
+    "english": "Visual Modifier",
+    "chinese": "视觉修改器",
+    "bilingual_name": "视觉修改器 Visual Modifier"
+  },
+  {
+    "type": "imageModifier",
+    "english": "Image Modifier",
+    "chinese": "图像修改器",
+    "bilingual_name": "图像修改器 Image Modifier"
+  },
+  {
+    "type": "pathModifier",
+    "english": "Path Modifier",
+    "chinese": "路径修改器",
+    "bilingual_name": "路径修改器 Path Modifier"
+  },
+  {
+    "type": "vortexModifier",
+    "english": "Vortex Modifier",
+    "chinese": "涡流修改器",
+    "bilingual_name": "涡流修改器 Vortex Modifier"
+  },
+  {
+    "type": "magneticModifier",
+    "english": "Magnetic Modifier",
+    "chinese": "磁力修改器",
+    "bilingual_name": "磁力修改器 Magnetic Modifier"
+  },
+  {
+    "type": "flowFieldModifier",
+    "english": "Flow Field Modifier",
+    "chinese": "流场修改器",
+    "bilingual_name": "流场修改器 Flow Field Modifier"
+  },
+  {
+    "type": "goalModifier",
+    "english": "Goal Modifier",
+    "chinese": "目标修改器",
+    "bilingual_name": "目标修改器 Goal Modifier"
+  },
+  {
+    "type": "speedModifier",
+    "english": "Speed Modifier",
+    "chinese": "速度修改器",
+    "bilingual_name": "速度修改器 Speed Modifier"
+  },
+  {
+    "type": "forceModifier",
+    "english": "Force Modifier",
+    "chinese": "力修改器",
+    "bilingual_name": "力修改器 Force Modifier"
+  },
+  {
+    "type": "turbulenceModifier",
+    "english": "Turbulence Modifier",
+    "chinese": "湍流修改器",
+    "bilingual_name": "湍流修改器 Turbulence Modifier"
+  },
+  {
+    "type": "multiPointGradientShader",
+    "english": "Multi-Point Gradient Shader",
+    "chinese": "多点渐变着色器",
+    "bilingual_name": "多点渐变着色器 Multi-Point Gradient Shader"
+  },
+  {
+    "type": "gammaCorrectionFilter",
+    "english": "Gamma Correction",
+    "chinese": "伽马校正",
+    "bilingual_name": "伽马校正 Gamma Correction"
+  },
+  {
+    "type": "blendShader",
+    "english": "Blend Shader",
+    "chinese": "混合着色器",
+    "bilingual_name": "混合着色器 Blend Shader"
+  },
+  {
+    "type": "slaShader",
+    "english": "SLA Shader",
+    "chinese": "SLA 着色器",
+    "bilingual_name": "SLA 着色器 SLA Shader"
+  },
+  {
+    "type": "rgbSplitFilter",
+    "english": "RGB Split",
+    "chinese": "RGB 分离",
+    "bilingual_name": "RGB 分离 RGB Split"
+  },
+  {
+    "type": "halftoneLegacyFilter",
+    "english": "Halftone",
+    "chinese": "半色调",
+    "bilingual_name": "半色调 Halftone"
+  },
+  {
+    "type": "halftoneFilter",
+    "english": "Halftone",
+    "chinese": "半色调",
+    "bilingual_name": "半色调 Halftone"
+  },
+  {
+    "type": "frostedGlassFilter",
+    "english": "Frosted Glass",
+    "chinese": "磨砂玻璃",
+    "bilingual_name": "磨砂玻璃 Frosted Glass"
+  },
+  {
+    "type": "ditheringFilter",
+    "english": "Dithering",
+    "chinese": "抖动",
+    "bilingual_name": "抖动 Dithering"
+  },
+  {
+    "type": "pixelSortingFilter",
+    "english": "Pixel Sorting",
+    "chinese": "像素排序",
+    "bilingual_name": "像素排序 Pixel Sorting"
+  },
+  {
+    "type": "stripesFilter",
+    "english": "Stripes",
+    "chinese": "条纹",
+    "bilingual_name": "条纹 Stripes"
+  },
+  {
+    "type": "pixelateFilter",
+    "english": "Pixelate",
+    "chinese": "像素化",
+    "bilingual_name": "像素化 Pixelate"
+  },
+  {
+    "type": "crtScanLines",
+    "english": "Scan Lines",
+    "chinese": "扫描线",
+    "bilingual_name": "扫描线 Scan Lines"
+  },
+  {
+    "type": "kitaokaFilter",
+    "english": "Kitaoka Filter",
+    "chinese": "北冈滤镜",
+    "bilingual_name": "北冈滤镜 Kitaoka Filter"
+  },
+  {
+    "type": "mirrorFilter",
+    "english": "Mirror",
+    "chinese": "镜像",
+    "bilingual_name": "镜像 Mirror"
+  },
+  {
+    "type": "distortionFilter",
+    "english": "Distortion",
+    "chinese": "扭曲",
+    "bilingual_name": "扭曲 Distortion"
+  },
+  {
+    "type": "distortEdges",
+    "english": "Distort Edges",
+    "chinese": "扭曲边缘",
+    "bilingual_name": "扭曲边缘 Distort Edges"
+  },
+  {
+    "type": "chromaticDisplacement",
+    "english": "Chromatic Displacement",
+    "chinese": "色差位移",
+    "bilingual_name": "色差位移 Chromatic Displacement"
+  },
+  {
+    "type": "displacementUtility",
+    "english": "Displacement Utility",
+    "chinese": "位移工具",
+    "bilingual_name": "位移工具 Displacement Utility"
+  },
+  {
+    "type": "colorInfo",
+    "english": "Color Info",
+    "chinese": "颜色信息",
+    "bilingual_name": "颜色信息 Color Info"
+  },
+  {
+    "type": "hsvColor",
+    "english": "HSV Color",
+    "chinese": "HSV 颜色",
+    "bilingual_name": "HSV 颜色 HSV Color"
+  },
+  {
+    "type": "subBoundingBox",
+    "english": "Sub-Mesh Bounding Box",
+    "chinese": "子网格边界框",
+    "bilingual_name": "子网格边界框 Sub-Mesh Bounding Box"
+  },
+  {
+    "type": "segmentPath",
+    "english": "Segment Path",
+    "chinese": "分割路径",
+    "bilingual_name": "分割路径 Segment Path"
+  },
+  {
+    "type": "forgeDynamicsShape",
+    "english": "Forge Dynamics",
+    "chinese": "Forge 动力学",
+    "bilingual_name": "Forge 动力学 Forge Dynamics"
+  },
+  {
+    "type": "colorCollisionEvent",
+    "english": "Color Collision Event",
+    "chinese": "颜色碰撞事件",
+    "bilingual_name": "颜色碰撞事件 Color Collision Event"
+  },
+  {
+    "type": "measureText",
+    "english": "Measure Text",
+    "chinese": "测量文本",
+    "bilingual_name": "测量文本 Measure Text"
+  },
+  {
+    "type": "stickyCollisionEvent",
+    "english": "Sticky Collision Event",
+    "chinese": "粘附碰撞事件",
+    "bilingual_name": "粘附碰撞事件 Sticky Collision Event"
+  },
+  {
+    "type": "impulseCollisionEvent",
+    "english": "Impulse Collision Event",
+    "chinese": "冲量碰撞事件",
+    "bilingual_name": "冲量碰撞事件 Impulse Collision Event"
+  },
+  {
+    "type": "bodySettingCollisionEvent",
+    "english": "Body Settings Collision Event",
+    "chinese": "刚体设置碰撞事件",
+    "bilingual_name": "刚体设置碰撞事件 Body Settings Collision Event"
+  },
+  {
+    "type": "visibilityCollisionEvent",
+    "english": "Visibility Collision Event",
+    "chinese": "可见性碰撞事件",
+    "bilingual_name": "可见性碰撞事件 Visibility Collision Event"
+  },
+  {
+    "type": "bridgeConstraint",
+    "english": "Bridge Constraint",
+    "chinese": "桥接约束",
+    "bilingual_name": "桥接约束 Bridge Constraint"
+  },
+  {
+    "type": "pinConstraint",
+    "english": "Pin Constraint",
+    "chinese": "钉固约束",
+    "bilingual_name": "钉固约束 Pin Constraint"
+  },
+  {
+    "type": "distanceConstraint",
+    "english": "Distance Constraint",
+    "chinese": "距离约束",
+    "bilingual_name": "距离约束 Distance Constraint"
+  },
+  {
+    "type": "directionField",
+    "english": "Direction Field",
+    "chinese": "方向场",
+    "bilingual_name": "方向场 Direction Field"
+  },
+  {
+    "type": "attractorField",
+    "english": "Attractor Field",
+    "chinese": "吸引场",
+    "bilingual_name": "吸引场 Attractor Field"
+  },
+  {
+    "type": "vortexField",
+    "english": "Vortex Field",
+    "chinese": "涡旋场",
+    "bilingual_name": "涡旋场 Vortex Field"
+  },
+  {
+    "type": "buoyancyField",
+    "english": "Buoyancy Field",
+    "chinese": "浮力场",
+    "bilingual_name": "浮力场 Buoyancy Field"
+  },
+  {
+    "type": "pathField",
+    "english": "Path Field",
+    "chinese": "路径场",
+    "bilingual_name": "路径场 Path Field"
+  },
+  {
+    "type": "travel",
+    "english": "Travel",
+    "chinese": "行程",
+    "bilingual_name": "行程 Travel"
+  },
+  {
+    "type": "reversePathUtility",
+    "english": "Reverse Path",
+    "chinese": "反转路径",
+    "bilingual_name": "反转路径 Reverse Path"
+  },
+  {
+    "type": "normalizePathUtility",
+    "english": "Normalize Path Direction",
+    "chinese": "规范化路径方向",
+    "bilingual_name": "规范化路径方向 Normalize Path Direction"
+  },
+  {
+    "type": "removeContoursUtility",
+    "english": "Remove Contours",
+    "chinese": "移除轮廓",
+    "bilingual_name": "移除轮廓 Remove Contours"
+  },
+  {
+    "type": "assetFromSmartFolder",
+    "english": "Asset From Smart Folder",
+    "chinese": "从智能文件夹获取资源",
+    "bilingual_name": "从智能文件夹获取资源 Asset From Smart Folder"
+  },
+  {
+    "type": "thresholdFilter",
+    "english": "Threshold",
+    "chinese": "阈值",
+    "bilingual_name": "阈值 Threshold"
+  },
+  {
+    "type": "posterizeFilter",
+    "english": "Posterize",
+    "chinese": "色调分离",
+    "bilingual_name": "色调分离 Posterize"
+  },
+  {
+    "type": "edgeDetection",
+    "english": "Edge Detection",
+    "chinese": "边缘检测",
+    "bilingual_name": "边缘检测 Edge Detection"
+  },
+  {
+    "type": "vignetteFilter",
+    "english": "Vignette",
+    "chinese": "暗角",
+    "bilingual_name": "暗角 Vignette"
+  },
+  {
+    "type": "hsvAdjustmentFilter",
+    "english": "HSV Adjustment",
+    "chinese": "HSV 调整",
+    "bilingual_name": "HSV 调整 HSV Adjustment"
+  },
+  {
+    "type": "sharpenFilter",
+    "english": "Sharpen",
+    "chinese": "锐化",
+    "bilingual_name": "锐化 Sharpen"
+  },
+  {
+    "type": "grainFilter",
+    "english": "Grain",
+    "chinese": "颗粒",
+    "bilingual_name": "颗粒 Grain"
+  },
+  {
+    "type": "motionBlurFilter",
+    "english": "Motion Blur",
+    "chinese": "运动模糊",
+    "bilingual_name": "运动模糊 Motion Blur"
+  },
+  {
+    "type": "scrapeFilter",
+    "english": "Scrape",
+    "chinese": "刮擦",
+    "bilingual_name": "刮擦 Scrape"
+  },
+  {
+    "type": "slitScanFilter",
+    "english": "Slit Scan",
+    "chinese": "狭缝扫描",
+    "bilingual_name": "狭缝扫描 Slit Scan"
+  },
+  {
+    "type": "voronoiShader",
+    "english": "Voronoi Shader",
+    "chinese": "Voronoi 着色器",
+    "bilingual_name": "Voronoi 着色器 Voronoi Shader"
+  },
+  {
+    "type": "glowFilter",
+    "english": "Glow",
+    "chinese": "辉光",
+    "bilingual_name": "辉光 Glow"
+  },
+  {
+    "type": "shiftChannels",
+    "english": "Shift Channels",
+    "chinese": "偏移通道",
+    "bilingual_name": "偏移通道 Shift Channels"
+  },
+  {
+    "type": "blackAndWhite",
+    "english": "Black and White",
+    "chinese": "黑白",
+    "bilingual_name": "黑白 Black and White"
+  },
+  {
+    "type": "brightnessAndContrast",
+    "english": "Brightness And Contrast",
+    "chinese": "亮度与对比度",
+    "bilingual_name": "亮度与对比度 Brightness And Contrast"
+  },
+  {
+    "type": "cornerPinShape",
+    "english": "Corner Pin",
+    "chinese": "角固定",
+    "bilingual_name": "角固定 Corner Pin"
+  },
+  {
+    "type": "extrude",
+    "english": "Extrude",
+    "chinese": "挤压",
+    "bilingual_name": "挤压 Extrude"
+  },
+  {
+    "type": "extractSubMeshes",
+    "english": "Extract Sub-Meshes",
+    "chinese": "提取子网格",
+    "bilingual_name": "提取子网格 Extract Sub-Meshes"
+  },
+  {
+    "type": "getSubMeshTransform",
+    "english": "Get Sub-Mesh Transform",
+    "chinese": "获取子网格变换",
+    "bilingual_name": "获取子网格变换 Get Sub-Mesh Transform"
+  },
+  {
+    "type": "intersectionDistribution",
+    "english": "Intersections",
+    "chinese": "交叉点",
+    "bilingual_name": "交叉点 Intersections"
+  },
+  {
+    "type": "accumulator",
+    "english": "Accumulator",
+    "chinese": "累加器",
+    "bilingual_name": "累加器 Accumulator"
+  },
+  {
+    "type": "imageSampler",
+    "english": "Image Sampler",
+    "chinese": "图像采样器",
+    "bilingual_name": "图像采样器 Image Sampler"
+  },
+  {
+    "type": "toonOutlines",
+    "english": "Toon Stroke",
+    "chinese": "卡通描边",
+    "bilingual_name": "卡通描边 Toon Stroke"
+  },
+  {
+    "type": "javaScript",
+    "english": "JavaScript Utility",
+    "chinese": "JavaScript 工具",
+    "bilingual_name": "JavaScript 工具 JavaScript Utility"
+  },
+  {
+    "type": "javaScriptShape",
+    "english": "JavaScript Shape",
+    "chinese": "JavaScript 形状",
+    "bilingual_name": "JavaScript 形状 JavaScript Shape"
+  },
+  {
+    "type": "javaScriptModifier",
+    "english": "JavaScript Modifier",
+    "chinese": "JavaScript 修改器",
+    "bilingual_name": "JavaScript 修改器 JavaScript Modifier"
+  },
+  {
+    "type": "javaScriptEmitter",
+    "english": "JavaScript Emitter",
+    "chinese": "JavaScript 发射器",
+    "bilingual_name": "JavaScript 发射器 JavaScript Emitter"
+  },
+  {
+    "type": "javaScriptDeformer",
+    "english": "JavaScript Deformer",
+    "chinese": "JavaScript 变形器",
+    "bilingual_name": "JavaScript 变形器 JavaScript Deformer"
+  },
+  {
+    "type": "dragField",
+    "english": "Drag Field",
+    "chinese": "阻力场",
+    "bilingual_name": "阻力场 Drag Field"
+  },
+  {
+    "type": "typeface",
+    "english": "Typeface",
+    "chinese": "字体",
+    "bilingual_name": "字体 Typeface"
+  },
+  {
+    "type": "lengthContext",
+    "english": "Length Context",
+    "chinese": "长度上下文",
+    "bilingual_name": "长度上下文 Length Context"
+  },
+  {
+    "type": "stringFromAsset",
+    "english": "String From Asset",
+    "chinese": "从素材生成字符串",
+    "bilingual_name": "从素材生成字符串 String From Asset"
+  },
+  {
+    "type": "subtitleExtractor",
+    "english": "Subtitle Extractor",
+    "chinese": "字幕提取器",
+    "bilingual_name": "字幕提取器 Subtitle Extractor"
+  },
+  {
+    "type": "timeMarker",
+    "english": "Time Marker",
+    "chinese": "时间标记",
+    "bilingual_name": "时间标记 Time Marker"
+  },
+  {
+    "type": "schedulingGroup",
+    "english": "Scheduling Group",
+    "chinese": "调度组",
+    "bilingual_name": "调度组 Scheduling Group"
+  },
+  {
+    "type": "knot",
+    "english": "Knot",
+    "chinese": "结点",
+    "bilingual_name": "结点 Knot"
+  },
+  {
+    "type": "skeleton",
+    "english": "Skeleton",
+    "chinese": "骨骼",
+    "bilingual_name": "骨骼 Skeleton"
+  },
+  {
+    "type": "bone",
+    "english": "Bone",
+    "chinese": "骨骼",
+    "bilingual_name": "骨骼 Bone"
+  },
+  {
+    "type": "inverseKinematicsControl",
+    "english": "IK Control",
+    "chinese": "IK 控制",
+    "bilingual_name": "IK 控制 IK Control"
+  },
+  {
+    "type": "skinning",
+    "english": "Skinning",
+    "chinese": "蒙皮",
+    "bilingual_name": "蒙皮 Skinning"
+  },
+  {
+    "type": "timelineCounter",
+    "english": "Timeline Counter",
+    "chinese": "时间线计数器",
+    "bilingual_name": "时间线计数器 Timeline Counter"
+  },
+  {
+    "type": "contrastingColor",
+    "english": "Contrasting Color",
+    "chinese": "对比色",
+    "bilingual_name": "对比色 Contrasting Color"
+  },
+  {
+    "type": "wave",
+    "english": "Wave",
+    "chinese": "波浪",
+    "bilingual_name": "波浪 Wave"
+  },
+  {
+    "type": "autoAnimate",
+    "english": "Auto-Animate",
+    "chinese": "自动动画",
+    "bilingual_name": "自动动画 Auto-Animate"
+  },
+  {
+    "type": "pieChart",
+    "english": "Pie Chart",
+    "chinese": "饼图",
+    "bilingual_name": "饼图 Pie Chart"
+  },
+  {
+    "type": "barChart",
+    "english": "Bar Chart",
+    "chinese": "柱状图",
+    "bilingual_name": "柱状图 Bar Chart"
+  },
+  {
+    "type": "mergeShape",
+    "english": "Merge",
+    "chinese": "合并",
+    "bilingual_name": "合并 Merge"
+  },
+  {
+    "type": "stitches",
+    "english": "Stitches",
+    "chinese": "缝线",
+    "bilingual_name": "缝线 Stitches"
+  },
+  {
+    "type": "strokeDuplicator",
+    "english": "Stroke Duplicator",
+    "chinese": "描边复制器",
+    "bilingual_name": "描边复制器 Stroke Duplicator"
+  },
+  {
+    "type": "isolinesShape",
+    "english": "Isolines",
+    "chinese": "等高线",
+    "bilingual_name": "等高线 Isolines"
+  },
+  {
+    "type": "luminanceBlur",
+    "english": "Luminance Blur",
+    "chinese": "亮度模糊",
+    "bilingual_name": "亮度模糊 Luminance Blur"
+  },
+  {
+    "type": "pathRelax",
+    "english": "Path Relax",
+    "chinese": "路径松弛",
+    "bilingual_name": "路径松弛 Path Relax"
+  },
+  {
+    "type": "pathAverage",
+    "english": "Path Average",
+    "chinese": "路径平均",
+    "bilingual_name": "路径平均 Path Average"
+  },
+  {
+    "type": "pointDisplace",
+    "english": "Point Displacer",
+    "chinese": "点置换器",
+    "bilingual_name": "点置换器 Point Displacer"
+  },
+  {
+    "type": "pathSplit",
+    "english": "Path Split",
+    "chinese": "路径分裂",
+    "bilingual_name": "路径分裂 Path Split"
+  },
+  {
+    "type": "meshSolver",
+    "english": "Mesh Solver",
+    "chinese": "网格求解器",
+    "bilingual_name": "网格求解器 Mesh Solver"
+  },
+  {
+    "type": "metaballs",
+    "english": "Metaballs",
+    "chinese": "融合球（元球）",
+    "bilingual_name": "融合球（元球） Metaballs"
+  },
+  {
+    "type": "bilateralBlurFilter",
+    "english": "Bilateral Blur",
+    "chinese": "双边模糊",
+    "bilingual_name": "双边模糊 Bilateral Blur"
+  },
+  {
+    "type": "boxBlurFilter",
+    "english": "Box Blur",
+    "chinese": "方框模糊",
+    "bilingual_name": "方框模糊 Box Blur"
+  },
+  {
+    "type": "bulgeFilter",
+    "english": "Bulge",
+    "chinese": "膨胀",
+    "bilingual_name": "膨胀 Bulge"
+  },
+  {
+    "type": "chromaKeyFilter",
+    "english": "Chroma Key",
+    "chinese": "色度抠像",
+    "bilingual_name": "色度抠像 Chroma Key"
+  },
+  {
+    "type": "directionalBlurFilter",
+    "english": "Directional Blur",
+    "chinese": "方向模糊",
+    "bilingual_name": "方向模糊 Directional Blur"
+  },
+  {
+    "type": "erosionFilter",
+    "english": "Erosion",
+    "chinese": "侵蚀",
+    "bilingual_name": "侵蚀 Erosion"
+  },
+  {
+    "type": "lightSweepFilter",
+    "english": "Light Sweep",
+    "chinese": "光带扫过",
+    "bilingual_name": "光带扫过 Light Sweep"
+  },
+  {
+    "type": "rectToPolarFilter",
+    "english": "Polar Coordinates",
+    "chinese": "极坐标",
+    "bilingual_name": "极坐标 Polar Coordinates"
+  },
+  {
+    "type": "rippleFilter",
+    "english": "Ripple",
+    "chinese": "波纹",
+    "bilingual_name": "波纹 Ripple"
+  },
+  {
+    "type": "spheriseFilter",
+    "english": "Spherise",
+    "chinese": "球面化",
+    "bilingual_name": "球面化 Spherise"
+  },
+  {
+    "type": "twistFilter",
+    "english": "Twist",
+    "chinese": "扭曲（旋扭）",
+    "bilingual_name": "扭曲（旋扭） Twist"
+  },
+  {
+    "type": "zoomBlurFilter",
+    "english": "Zoom Blur",
+    "chinese": "缩放模糊",
+    "bilingual_name": "缩放模糊 Zoom Blur"
+  }
+]
